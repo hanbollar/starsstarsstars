@@ -213,6 +213,8 @@
 
 ## Others 
 
+- [usd-wg/assets](https://github.com/usd-wg/assets) - USD Working Group assets
+- [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop
 - [matiascodesal/awesome-usd](https://github.com/matiascodesal/awesome-usd) - A curated list of awesome Universal Scene Description (USD) resources and projects
 - [KittyCAD/support](https://github.com/KittyCAD/support) - Public-facing place for individuals to note issues, bugs, and feature requests. Contact support@kittycad.io for a private discussion instead.
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 🛠Helpful items for making open source hardware projects.
