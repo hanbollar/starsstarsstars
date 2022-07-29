@@ -21,6 +21,7 @@
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [css](#css)
+- [dart](#dart)
 - [design](#design)
 - [devops](#devops)
 - [docker](#docker)
@@ -63,7 +64,9 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [matlab](#matlab)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
+- [monitoring](#monitoring)
 - [mysql](#mysql)
 - [neovim](#neovim)
 - [node](#node)
@@ -101,6 +104,7 @@
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
+- [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
 
@@ -115,6 +119,8 @@
 
 ## android 
 
+- [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 - [romainguy/kotlin-math](https://github.com/romainguy/kotlin-math) - Set of Kotlin APIs to make graphics math easier to write.
@@ -202,6 +208,10 @@
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
+## dart 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
 ## design 
 
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
@@ -212,6 +222,7 @@
 
 ## docker 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hansen7/OcCo](https://github.com/hansen7/OcCo) - [ICCV '21] "Unsupervised Point Cloud Pre-training via Occlusion Completion"
@@ -356,6 +367,8 @@
 
 ## ios 
 
+- [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 
 ## iot 
@@ -407,6 +420,7 @@
 
 ## linux 
 
+- [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
@@ -428,6 +442,8 @@
 
 ## macos 
 
+- [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
@@ -444,16 +460,25 @@
 
 ## material-design 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [sedaoturak/data-resources-for-materials-science](https://github.com/sedaoturak/data-resources-for-materials-science) - A list of databases, datasets and books/handbooks where you can find materials properties for machine learning applications.
 
 ## matlab 
 
 - [iheartla/iheartla](https://github.com/iheartla/iheartla) - compilable markdown for linear algebra
 
+## mobile 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
 ## mongodb 
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
+
+## monitoring 
+
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## mysql 
 
@@ -498,11 +523,15 @@
 
 ## others 
 
+- [vishwesh5/Paper-a-day](https://github.com/vishwesh5/Paper-a-day) - An attempt at a paper a day
+- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
+- [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast) - Jekyll Theme
 - [github/pages-health-check](https://github.com/github/pages-health-check) - Checks your GitHub Pages site for common DNS configuration issues
 - [NVIDIA/optix-toolkit](https://github.com/NVIDIA/optix-toolkit) - Set of utilities supporting workflows common in GPU raytracing applications
 - [usd-wg/assets](https://github.com/usd-wg/assets) - USD Working Group assets
 - [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
@@ -744,7 +773,12 @@
 
 ## web 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+
+## webapp 
+
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## website 
 
@@ -753,6 +787,7 @@
 
 ## windows 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
