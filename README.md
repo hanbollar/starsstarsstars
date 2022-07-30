@@ -249,6 +249,7 @@
 
 ## Python 
 
+- [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [hansen7/OcCo](https://github.com/hansen7/OcCo) - [ICCV '21] "Unsupervised Point Cloud Pre-training via Occlusion Completion"
@@ -280,6 +281,7 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
