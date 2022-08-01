@@ -55,6 +55,7 @@
 - [iot](#iot)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
 - [language](#language)
@@ -71,6 +72,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -245,6 +247,8 @@
 
 ## documentation 
 
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [akosma/eBook-Template](https://github.com/akosma/eBook-Template) - Template to create PDF, ePub and Kindle books with Asciidoctor
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
@@ -395,6 +399,7 @@
 
 ## javascript 
 
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -419,6 +424,10 @@
 - [DavideBrie/Gesko](https://github.com/DavideBrie/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+
+## js 
+
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 
 ## json 
 
@@ -474,6 +483,7 @@
 
 ## markdown 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
@@ -511,6 +521,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 
+## nextjs 
+
+- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
+
 ## node 
 
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
@@ -545,6 +559,8 @@
 
 ## others 
 
+- [icecc/icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [SaraVieira/starter-book](https://github.com/SaraVieira/starter-book) - A book starter to kickstart your writing journey 🎉
 - [vishwesh5/Paper-a-day](https://github.com/vishwesh5/Paper-a-day) - An attempt at a paper a day
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
@@ -704,6 +720,9 @@
 
 ## react 
 
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
+- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
@@ -784,6 +803,7 @@
 
 ## typescript 
 
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
