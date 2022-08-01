@@ -71,6 +71,7 @@
 
 ## C++ 
 
+- [icecc/icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -152,6 +153,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [NVIDIA/vgpu-device-manager](https://github.com/NVIDIA/vgpu-device-manager) - NVIDIA vGPU Device Manager manages NVIDIA vGPU devices on top of Kubernetes
@@ -172,6 +174,7 @@
 
 ## JavaScript 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [SaraVieira/starter-book](https://github.com/SaraVieira/starter-book) - A book starter to kickstart your writing journey 🎉
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast) - Jekyll Theme
@@ -323,6 +326,8 @@
 
 ## TypeScript 
 
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
