@@ -67,6 +67,7 @@
 - [jekyll](#jekyll)
 - [js](#js)
 - [json](#json)
+- [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -164,6 +165,7 @@
 
 ## api 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -272,6 +274,7 @@
 
 ## cpp 
 
+- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -325,6 +328,7 @@
 
 ## design 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
@@ -348,6 +352,7 @@
 
 ## documentation 
 
+- [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -436,6 +441,7 @@
 
 ## git 
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
@@ -447,6 +453,7 @@
 
 ## github 
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -492,6 +499,7 @@
 
 ## graphql 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
@@ -506,6 +514,8 @@
 
 ## hacktoberfest 
 
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [raviriley/agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) - Jekyll version of the newest Agency Bootstrap theme, plus new features: Google Analytics, Markdown support, custom pages, and more!
@@ -513,7 +523,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [aidenybai/lucia](https://github.com/aidenybai/lucia) - 🙋‍♀️ 3kb library for tiny web apps
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -562,6 +572,7 @@
 
 ## javascript 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -569,7 +580,7 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [aidenybai/lucia](https://github.com/aidenybai/lucia) - 🙋‍♀️ 3kb library for tiny web apps
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
 - [mapbox/earcut](https://github.com/mapbox/earcut) - The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
@@ -610,6 +621,10 @@
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 
+## koa 
+
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+
 ## kotlin 
 
 - [romainguy/kotlin-math](https://github.com/romainguy/kotlin-math) - Set of Kotlin APIs to make graphics math easier to write.
@@ -643,6 +658,7 @@
 
 ## lua 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
@@ -655,6 +671,7 @@
 
 ## macos 
 
+- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -704,11 +721,13 @@
 
 ## mysql 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 
 ## neovim 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -728,6 +747,7 @@
 
 ## nodejs 
 
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -739,6 +759,7 @@
 
 ## objective-c 
 
+- [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## open-source 
@@ -767,6 +788,9 @@
 
 ## others 
 
+- [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [jazzay/flecs-rs](https://github.com/jazzay/flecs-rs) - Rust bindings for the Flecs ECS library
 - [bitnami/vms](https://github.com/bitnami/vms) - Bitnami Application Catalog VMs
 - [martinmoene/expected-lite](https://github.com/martinmoene/expected-lite) - expected lite - Expected objects in C++11 and later in a single-file header-only library
@@ -973,7 +997,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
@@ -1114,6 +1138,7 @@
 
 ## vim 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
