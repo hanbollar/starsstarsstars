@@ -39,6 +39,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
 - [Vue](#vue)
@@ -58,6 +59,7 @@
 
 ## C 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [jazzay/flecs-rs](https://github.com/jazzay/flecs-rs) - Rust bindings for the Flecs ECS library
 - [freedosproject/toycpu](https://github.com/freedosproject/toycpu) - A simulation of a Minimal instruction set computer
@@ -87,6 +89,7 @@
 
 ## C++ 
 
+- [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -202,6 +205,9 @@
 
 ## Go 
 
+- [mailhog/mhsendmail](https://github.com/mailhog/mhsendmail) - sendmail for MailHog
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
@@ -232,6 +238,8 @@
 
 ## JavaScript 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [ethomson/github4life](https://github.com/ethomson/github4life) - Using your GitHub Contribution Graph as a four-color Game of Life.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -352,6 +360,8 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [YueJiang-nj/CVPR2020-SDFDiff](https://github.com/YueJiang-nj/CVPR2020-SDFDiff) - SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
@@ -436,8 +446,14 @@
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 
+## TeX 
+
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
 ## TypeScript 
 
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [z0al/dependent-issues](https://github.com/z0al/dependent-issues) - 📦 A GitHub Action for marking issues as dependent on another
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
