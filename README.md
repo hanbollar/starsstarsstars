@@ -238,6 +238,7 @@
 
 ## JavaScript 
 
+- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ethomson/github4life](https://github.com/ethomson/github4life) - Using your GitHub Contribution Graph as a four-color Game of Life.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
