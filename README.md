@@ -89,6 +89,8 @@
 
 ## C++ 
 
+- [jeremyong/coop](https://github.com/jeremyong/coop) - C++20 coroutines-based cooperative multitasking library
+- [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library
 - [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
