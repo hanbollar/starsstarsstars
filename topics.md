@@ -137,6 +137,7 @@
 
 ## 3d 
 
+- [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [nytimes/three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - This is a Three.js loader module for handling OGC 3D Tiles, created by Cesium. It currently supports the two main formats, Batched 3D Model (b3dm) - based on glTF Point cloud.
 - [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
@@ -284,6 +285,7 @@
 
 ## cpp 
 
+- [jeremyong/coop](https://github.com/jeremyong/coop) - C++20 coroutines-based cooperative multitasking library
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
