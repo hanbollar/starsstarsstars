@@ -133,7 +133,7 @@
 - [pplux/imgui-app](https://github.com/pplux/imgui-app) - Dear IMGUI + Render + Window handling, amalgamation in two files ready to use
 - [hrydgard/minitrace](https://github.com/hrydgard/minitrace) - Simple C/C++ library for producing JSON traces suitable for Chrome's built-in trace viewer (about:tracing).
 - [richard-evans/vampire](https://github.com/richard-evans/vampire) - Atomistic simulator for magnetic materials
-- [pablode/guc](https://github.com/pablode/guc) - A glTF to USD converter with MaterialX support.
+- [pablode/guc](https://github.com/pablode/guc) - glTF to USD converter with MaterialX support.
 - [InteractiveComputerGraphics/Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) - A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the discretization of signed distance fields.
 - [eidosmontreal/unreal-vdb](https://github.com/eidosmontreal/unreal-vdb) - This repo is a non-official Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.
 - [davidstutz/mesh-voxelization](https://github.com/davidstutz/mesh-voxelization) - C++ implementation for computing occupancy grids and signed distance functions (SDFs) from watertight meshes.
@@ -327,6 +327,8 @@
 
 ## Others 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -409,6 +411,7 @@
 
 ## Rust 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [d4rckh/gorilla](https://github.com/d4rckh/gorilla) - tool for generating wordlists or extending an existing one using mutations.
