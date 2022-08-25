@@ -41,7 +41,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -143,7 +143,7 @@
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [elalish/manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
 - [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
-- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [fougue/mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
@@ -503,7 +503,7 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 
-## Vim script 
+## Vim Script 
 
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
