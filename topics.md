@@ -44,6 +44,7 @@
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
+- [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -422,6 +423,10 @@
 ## frameworks 
 
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+
+## frontend 
+
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
 ## game 
 
