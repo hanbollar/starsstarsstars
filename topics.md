@@ -846,6 +846,7 @@
 
 ## others 
 
+- [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [thechangelog/nightly](https://github.com/thechangelog/nightly) - Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.
 - [Twinklebear/webgpu-isosurface-raycaster](https://github.com/Twinklebear/webgpu-isosurface-raycaster) - A WebGPU Isosurface Raycaster
 - [erich666/McUsd](https://github.com/erich666/McUsd) - Simple USD scene geometry with a variety of UsdPreviewSurface materials applied
@@ -896,7 +897,7 @@
 - [alaingalvan/MoltenVK](https://github.com/alaingalvan/MoltenVK) - MoltenVK is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan compatibility to iOS and macOS.
 - [alaingalvan/raw-vulkan](https://github.com/alaingalvan/raw-vulkan) - 🔥 Experiments building Vulkan applications, libraries, and abstractions.
 - [alaingalvan/renderdoc](https://github.com/alaingalvan/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
-- [codemirror/dev](https://github.com/codemirror/dev) - Develpment repository for the CodeMirror editor project
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [WeAllJS/weallcontribute](https://github.com/WeAllJS/weallcontribute) - CONTRIBUTING.md generator
 - [icecc/icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load
