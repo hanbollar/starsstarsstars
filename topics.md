@@ -859,6 +859,8 @@
 
 ## others 
 
+- [sylefeb/tinygpus](https://github.com/sylefeb/tinygpus) - TinyGPUs, making graphics hardware for 1990s games
+- [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
