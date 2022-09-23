@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
 - [idaholab/moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
 - [KhronosGroup/VulkanSC-pcutil](https://github.com/KhronosGroup/VulkanSC-pcutil) - 
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - Physical based rendering with Vulkan using glTF 2.0 models
