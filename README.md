@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
 - [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
 - [idaholab/moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
 - [KhronosGroup/VulkanSC-pcutil](https://github.com/KhronosGroup/VulkanSC-pcutil) - 
@@ -361,6 +362,7 @@
 
 ## Others 
 
+- [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
