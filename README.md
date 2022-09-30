@@ -266,6 +266,7 @@
 
 ## JavaScript 
 
+- [Khan/pull-request-comment-trigger](https://github.com/Khan/pull-request-comment-trigger) - A github action for detecting a "trigger" in a pull request description or comment
 - [KhronosGroup/VulkanSC-Docs](https://github.com/KhronosGroup/VulkanSC-Docs) - The Vulkan SC API Specification and related tools
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
