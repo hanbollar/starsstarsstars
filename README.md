@@ -96,6 +96,7 @@
 
 ## C++ 
 
+- [libigl/libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
 - [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
 - [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
 - [idaholab/moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
