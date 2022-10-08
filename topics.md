@@ -42,6 +42,7 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [electron](#electron)
+- [elixir](#elixir)
 - [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
@@ -444,6 +445,10 @@
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
 
+## elixir 
+
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView
+
 ## ember 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -559,6 +564,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+- [minicli/action-contributors](https://github.com/minicli/action-contributors) - GitHub Action to dynamically update CONTRIBUTORS file
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 
@@ -608,6 +614,7 @@
 
 ## hacktoberfest 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -656,6 +663,7 @@
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+- [minicli/action-contributors](https://github.com/minicli/action-contributors) - GitHub Action to dynamically update CONTRIBUTORS file
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
@@ -794,6 +802,7 @@
 
 ## lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -825,6 +834,7 @@
 
 ## markdown 
 
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView
 - [markdown-templates/markdown-snippets](https://github.com/markdown-templates/markdown-snippets) - :clipboard: Markdown snippets for your documentation files.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
@@ -867,6 +877,7 @@
 
 ## neovim 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
@@ -942,10 +953,11 @@
 
 ## others 
 
+- [mateeeeeee/Adria-DX12](https://github.com/mateeeeeee/Adria-DX12) - Rendergraph-based graphics engine written in C++ using DirectX12/DXR
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [huggingface/simulate](https://github.com/huggingface/simulate) - 🎢 Creating and sharing simulation environments for embodied and synthetic data research
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A working implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - 
 - [libigl/libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
 - [rgl-epfl/differentiable-sdf-rendering](https://github.com/rgl-epfl/differentiable-sdf-rendering) - Source code for "Differentiable Signed Distance Function Rendering" (Siggraph 2022)
@@ -1075,7 +1087,6 @@
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [Traverse-Research/gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - 🦀 Memory allocator written in pure Rust for GPU memory in Vulkan and DirectX 12
-- [minicli/action-contributors](https://github.com/minicli/action-contributors) - GitHub Action to dynamically update CONTRIBUTORS file
 - [fougue/mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
 - [PixarAnimationStudios/USD](https://github.com/PixarAnimationStudios/USD) - Universal Scene Description
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
@@ -1383,6 +1394,7 @@
 
 ## vim 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
