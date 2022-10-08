@@ -17,6 +17,7 @@
 - [Crystal](#crystal)
 - [Cuda](#cuda)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -99,6 +100,7 @@
 
 ## C++ 
 
+- [mateeeeeee/Adria-DX12](https://github.com/mateeeeeee/Adria-DX12) - Rendergraph-based graphics engine written in C++ using DirectX12/DXR
 - [libigl/libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
 - [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
 - [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
@@ -224,6 +226,10 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [KhronosGroup/glTF-Validator](https://github.com/KhronosGroup/glTF-Validator) - Tool to validate glTF assets.
 
+## Elixir 
+
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView
+
 ## GLSL 
 
 - [nicoptere/raymarching-for-THREE](https://github.com/nicoptere/raymarching-for-THREE) - a helper to work with raymarching in THREE.js
@@ -341,6 +347,7 @@
 
 ## Lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [sylefeb/tinygpus](https://github.com/sylefeb/tinygpus) - TinyGPUs, making graphics hardware for 1990s games
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
@@ -420,7 +427,7 @@
 
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [huggingface/simulate](https://github.com/huggingface/simulate) - 🎢 Creating and sharing simulation environments for embodied and synthetic data research
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A working implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [rgl-epfl/differentiable-sdf-rendering](https://github.com/rgl-epfl/differentiable-sdf-rendering) - Source code for "Differentiable Signed Distance Function Rendering" (Siggraph 2022)
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
