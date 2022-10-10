@@ -953,6 +953,7 @@
 
 ## others 
 
+- [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
 - [EricBollar/Fullstack-Forum](https://github.com/EricBollar/Fullstack-Forum) - 
 - [mateeeeeee/Adria-DX12](https://github.com/mateeeeeee/Adria-DX12) - Rendergraph-based graphics engine written in C++ using DirectX12/DXR
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
