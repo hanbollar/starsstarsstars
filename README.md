@@ -100,6 +100,7 @@
 
 ## C++ 
 
+- [milkru/vulkanizer](https://github.com/milkru/vulkanizer) - Advanced Vulkan rendering engine prototype
 - [mateeeeeee/Adria-DX12](https://github.com/mateeeeeee/Adria-DX12) - Rendergraph-based graphics engine written in C++ using DirectX12/DXR
 - [libigl/libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
 - [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
