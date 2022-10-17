@@ -379,6 +379,7 @@
 
 ## Others 
 
+- [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -555,6 +556,8 @@
 
 ## TypeScript 
 
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
+- [SteamDeckHomebrew/decky-playground](https://github.com/SteamDeckHomebrew/decky-playground) - A playground for all extracted decky components
 - [EricBollar/Fullstack-Forum](https://github.com/EricBollar/Fullstack-Forum) - 
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - 
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
