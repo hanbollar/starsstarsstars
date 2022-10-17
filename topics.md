@@ -958,6 +958,8 @@
 
 ## others 
 
+- [SteamDeckHomebrew/decky-playground](https://github.com/SteamDeckHomebrew/decky-playground) - A playground for all extracted decky components
+- [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [jackpot51/hackinthebox](https://github.com/jackpot51/hackinthebox) - 
 - [KhronosGroup/Vulkan-Tools](https://github.com/KhronosGroup/Vulkan-Tools) - Vulkan Utilities and Tools
 - [Profactor/continuous-remeshing](https://github.com/Profactor/continuous-remeshing) - Continuous Remeshing For Inverse Rendering
@@ -1194,6 +1196,7 @@
 
 ## python 
 
+- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [uvipen/ASCII-generator](https://github.com/uvipen/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
