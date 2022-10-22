@@ -559,6 +559,8 @@
 
 ## TypeScript 
 
+- [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
 - [SteamDeckHomebrew/decky-playground](https://github.com/SteamDeckHomebrew/decky-playground) - A playground for all extracted decky components
 - [EricBollar/Fullstack-Forum](https://github.com/EricBollar/Fullstack-Forum) - 
