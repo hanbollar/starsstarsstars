@@ -986,6 +986,7 @@
 
 ## others 
 
+- [NVIDIA/nvcomp](https://github.com/NVIDIA/nvcomp) - A library for fast lossless compression/decompression on the GPU
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
 - [EricLengyel/Terathon-Container-Library](https://github.com/EricLengyel/Terathon-Container-Library) - C++ containers for arrays, lists, maps, hash tables, trees, and graphs.
 - [KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
