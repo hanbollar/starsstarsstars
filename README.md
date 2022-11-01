@@ -34,6 +34,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [PostScript](#postscript)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Raku](#raku)
 - [Ruby](#ruby)
@@ -444,6 +445,10 @@
 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
+## PowerShell 
+
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+
 ## Python 
 
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
@@ -463,7 +468,6 @@
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [YueJiang-nj/CVPR2020-SDFDiff](https://github.com/YueJiang-nj/CVPR2020-SDFDiff) - SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
