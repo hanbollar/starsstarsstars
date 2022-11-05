@@ -143,6 +143,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
@@ -991,7 +992,7 @@
 
 ## others 
 
-- [tierrun/tier](https://github.com/tierrun/tier) - 
+- [tierrun/tier](https://github.com/tierrun/tier) - Pricing As Code
 - [NVIDIA/nvcomp](https://github.com/NVIDIA/nvcomp) - A library for fast lossless compression/decompression on the GPU
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
 - [EricLengyel/Terathon-Container-Library](https://github.com/EricLengyel/Terathon-Container-Library) - C++ containers for arrays, lists, maps, hash tables, trees, and graphs.
@@ -1040,7 +1041,7 @@
 - [erich666/McUsd](https://github.com/erich666/McUsd) - Simple USD scene geometry with a variety of UsdPreviewSurface materials applied
 - [matthias-research/pages](https://github.com/matthias-research/pages) - My web page containing all the demos from my youtube channel "Ten Minute Physics" www.youtube.com/c/TenMinutePhysics
 - [brunoimbrizi/interactive-particles](https://github.com/brunoimbrizi/interactive-particles) - 
-- [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
+- [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
@@ -1437,6 +1438,10 @@
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
+
+## ubuntu 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 
 ## unity 
 
