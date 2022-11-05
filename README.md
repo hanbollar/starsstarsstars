@@ -248,7 +248,7 @@
 
 ## Go 
 
-- [tierrun/tier](https://github.com/tierrun/tier) - 
+- [tierrun/tier](https://github.com/tierrun/tier) - Pricing As Code
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [offen/consent](https://github.com/offen/consent) - Zero-overhead consent tooling
@@ -396,7 +396,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
-- [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - 
+- [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [markdown-templates/markdown-snippets](https://github.com/markdown-templates/markdown-snippets) - :clipboard: Markdown snippets for your documentation files.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
