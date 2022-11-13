@@ -13,6 +13,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
+- [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -213,6 +214,10 @@
 ## arduino 
 
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
+
+## artificial-intelligence 
+
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## automation 
 
