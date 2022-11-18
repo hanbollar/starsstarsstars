@@ -340,6 +340,7 @@
 
 ## compiler 
 
+- [google/shaderc](https://github.com/google/shaderc) - A collection of tools, libraries, and tests for Vulkan shader compilation.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [iheartla/iheartla](https://github.com/iheartla/iheartla) - compilable markdown for linear algebra
 
@@ -1002,6 +1003,12 @@
 
 ## others 
 
+- [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
+- [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
+- [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [KhronosGroup/SPIRV-Headers](https://github.com/KhronosGroup/SPIRV-Headers) - SPIRV-Headers
+- [zeux/volk](https://github.com/zeux/volk) - Meta loader for Vulkan API
+- [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize) - A serialization format for various persistent Vulkan object types.
 - [NVIDIA/nvcomp](https://github.com/NVIDIA/nvcomp) - A library for fast lossless compression/decompression on the GPU
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
 - [EricLengyel/Terathon-Container-Library](https://github.com/EricLengyel/Terathon-Container-Library) - C++ containers for arrays, lists, maps, hash tables, trees, and graphs.
