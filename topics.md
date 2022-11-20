@@ -1398,6 +1398,7 @@
 
 ## software 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## sql 
