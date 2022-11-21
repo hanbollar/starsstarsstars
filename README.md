@@ -254,7 +254,7 @@
 
 ## Go 
 
-- [tierrun/tier](https://github.com/tierrun/tier) - Pricing As Code by @bmizerany @isaacs and @jevon
+- [tierrun/tier](https://github.com/tierrun/tier) - CLI Power Tools for @stripe by @bmizerany @isaacs and @jevon
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [offen/consent](https://github.com/offen/consent) - Zero-overhead consent tooling
@@ -335,7 +335,7 @@
 - [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast) - Jekyll Theme
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
