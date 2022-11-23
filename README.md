@@ -18,7 +18,6 @@
 - [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -31,6 +30,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Objective-C++](#objective-c++)
+- [Open Policy Agent](#open-policy-agent)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -104,6 +104,7 @@
 
 ## C++ 
 
+- [embree/embree](https://github.com/embree/embree) - Embree ray tracing kernels repository.
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [google/shaderc](https://github.com/google/shaderc) - A collection of tools, libraries, and tests for Vulkan shader compilation.
@@ -245,10 +246,6 @@
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 
-## EJS 
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
 ## Elixir 
 
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
@@ -340,6 +337,7 @@
 - [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast) - Jekyll Theme
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
@@ -394,6 +392,10 @@
 
 - [alaingalvan/MoltenVK](https://github.com/alaingalvan/MoltenVK) - MoltenVK is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan compatibility to iOS and macOS.
 - [KhronosGroup/MoltenVK](https://github.com/KhronosGroup/MoltenVK) - MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan ap
+
+## Open Policy Agent 
+
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
 ## OpenSCAD 
 
@@ -463,6 +465,7 @@
 
 ## Python 
 
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
 - [Profactor/continuous-remeshing](https://github.com/Profactor/continuous-remeshing) - Continuous Remeshing For Inverse Rendering
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
@@ -584,6 +587,8 @@
 
 ## TypeScript 
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and collaboration.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
