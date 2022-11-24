@@ -104,6 +104,8 @@
 
 ## C++ 
 
+- [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework
 - [embree/embree](https://github.com/embree/embree) - Embree ray tracing kernels repository.
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
@@ -213,6 +215,7 @@
 
 ## CMake 
 
+- [humbletim/setup-vulkan-sdk](https://github.com/humbletim/setup-vulkan-sdk) - github action that provisions the Vulkan SDK and configures VULKAN_SDK environment variable
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 
 ## CSS 
@@ -608,7 +611,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
