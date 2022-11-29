@@ -104,6 +104,7 @@
 
 ## C++ 
 
+- [ddemidov/amgcl](https://github.com/ddemidov/amgcl) - C++ library for solving large sparse linear systems with algebraic multigrid method
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework
 - [embree/embree](https://github.com/embree/embree) - Embree ray tracing kernels repository.
@@ -260,7 +261,7 @@
 ## Go 
 
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [tierrun/tier](https://github.com/tierrun/tier) - CLI Power Tools for @stripe by @bmizerany @isaacs and @jevon
+- [tierrun/tier](https://github.com/tierrun/tier) - Pricing As Code. One tool to manage your entire pricing stack. By @bmizerany @isaacs and @jevon
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [offen/consent](https://github.com/offen/consent) - Zero-overhead consent tooling
