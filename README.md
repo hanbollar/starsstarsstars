@@ -65,6 +65,7 @@
 
 ## C 
 
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
 - [zeux/volk](https://github.com/zeux/volk) - Meta loader for Vulkan API
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -105,6 +106,9 @@
 
 ## C++ 
 
+- [meganr28/null-collision-volumes-cuda](https://github.com/meganr28/null-collision-volumes-cuda) - 
+- [IwakuraRein/CIS-565-Final-VR-Raytracer](https://github.com/IwakuraRein/CIS-565-Final-VR-Raytracer) - Real-time Global Illumination with Vulkan Ray Tracing API
+- [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) - cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
 - [KhronosGroup/Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable
 - [Autodesk/Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with a USD Hydra render delegate
 - [nmoehrle/libacc](https://github.com/nmoehrle/libacc) - Acceleration structure library (BVH-, KD-Tree) with basic parallel construction
@@ -477,6 +481,7 @@
 
 ## Python 
 
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [google/ldif](https://github.com/google/ldif) - 3D Shape Representation with Local Deep Implicit Functions.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
@@ -603,6 +608,7 @@
 
 ## TypeScript 
 
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for physics simulations and other mathematical calculations
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
