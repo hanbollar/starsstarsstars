@@ -30,12 +30,10 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Objective-C++](#objective-c++)
-- [Open Policy Agent](#open-policy-agent)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [PostScript](#postscript)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Raku](#raku)
 - [Ruby](#ruby)
@@ -415,10 +413,6 @@
 - [alaingalvan/MoltenVK](https://github.com/alaingalvan/MoltenVK) - MoltenVK is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan compatibility to iOS and macOS.
 - [KhronosGroup/MoltenVK](https://github.com/KhronosGroup/MoltenVK) - MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan ap
 
-## Open Policy Agent 
-
-- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
-
 ## OpenSCAD 
 
 - [Irev-Dev/code-first-microphone-brace](https://github.com/Irev-Dev/code-first-microphone-brace) - 
@@ -481,12 +475,10 @@
 
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
-## PowerShell 
-
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-
 ## Python 
 
+- [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
+- [chenzhaiyu/points2poly](https://github.com/chenzhaiyu/points2poly) - Reconstructing compact building models from point clouds using deep implicit fields
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [google/ldif](https://github.com/google/ldif) - 3D Shape Representation with Local Deep Implicit Functions.
@@ -509,6 +501,7 @@
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [YueJiang-nj/CVPR2020-SDFDiff](https://github.com/YueJiang-nj/CVPR2020-SDFDiff) - SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
@@ -552,6 +545,7 @@
 
 ## Rust 
 
+- [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -620,6 +614,7 @@
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for physics simulations and other mathematical calculations
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
