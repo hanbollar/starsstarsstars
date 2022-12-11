@@ -1221,7 +1221,7 @@
 - [Irev-Dev/code-first-microphone-brace](https://github.com/Irev-Dev/code-first-microphone-brace) - 
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [pablode/guc](https://github.com/pablode/guc) - glTF to USD converter with MaterialX support.
+- [pablode/guc](https://github.com/pablode/guc) - glTF to USD converter with MaterialX support
 - [TheRobotFactory/EightBit-Atari-Fonts](https://github.com/TheRobotFactory/EightBit-Atari-Fonts) - Fonts generated from original bitmaps from Atari 8bit computers
 - [thedevslot/WhatATheme](https://github.com/thedevslot/WhatATheme) - A customizable Jekyll Portfolio theme which supports blogging.
 - [InteractiveComputerGraphics/Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) - A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the discretization of signed distance fields.
