@@ -108,6 +108,7 @@
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [GPUVerb/Planeverb](https://github.com/GPUVerb/Planeverb) - Project Planeverb is a CPU based real-time wave-based acoustics engine for games. It comes with an integration with the Unity Engine.
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [vivienldy/CUDA-Kernel-Node-Editor-For-Houdini](https://github.com/vivienldy/CUDA-Kernel-Node-Editor-For-Houdini) - 
 - [meganr28/null-collision-volumes-cuda](https://github.com/meganr28/null-collision-volumes-cuda) - 
 - [IwakuraRein/CIS-565-Final-VR-Raytracer](https://github.com/IwakuraRein/CIS-565-Final-VR-Raytracer) - Real-time Global Illumination with Vulkan Ray Tracing API
 - [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) - cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
@@ -183,7 +184,7 @@
 - [pplux/imgui-app](https://github.com/pplux/imgui-app) - Dear IMGUI + Render + Window handling, amalgamation in two files ready to use
 - [hrydgard/minitrace](https://github.com/hrydgard/minitrace) - Simple C/C++ library for producing JSON traces suitable for Chrome's built-in trace viewer (about:tracing).
 - [richard-evans/vampire](https://github.com/richard-evans/vampire) - Atomistic simulator for magnetic materials
-- [pablode/guc](https://github.com/pablode/guc) - glTF to USD converter with MaterialX support.
+- [pablode/guc](https://github.com/pablode/guc) - glTF to USD converter with MaterialX support
 - [InteractiveComputerGraphics/Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) - A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the discretization of signed distance fields.
 - [eidosmontreal/unreal-vdb](https://github.com/eidosmontreal/unreal-vdb) - This repo is a non-official Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.
 - [davidstutz/mesh-voxelization](https://github.com/davidstutz/mesh-voxelization) - C++ implementation for computing occupancy grids and signed distance functions (SDFs) from watertight meshes.
@@ -480,7 +481,6 @@
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
 - [chenzhaiyu/points2poly](https://github.com/chenzhaiyu/points2poly) - Reconstructing compact building models from point clouds using deep implicit fields
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [vivienldy/CUDA-Kernel-Node-Editor-For-Houdini](https://github.com/vivienldy/CUDA-Kernel-Node-Editor-For-Houdini) - 
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [google/ldif](https://github.com/google/ldif) - 3D Shape Representation with Local Deep Implicit Functions.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
