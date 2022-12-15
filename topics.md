@@ -165,6 +165,7 @@
 
 ## 3d 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
 - [chenzhaiyu/points2poly](https://github.com/chenzhaiyu/points2poly) - Reconstructing compact building models from point clouds using deep implicit fields
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
@@ -382,6 +383,7 @@
 
 ## cpp 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [kimkulling/osre](https://github.com/kimkulling/osre) - An open source render engine
 - [lukka/get-cmake](https://github.com/lukka/get-cmake) - Install and Cache latest CMake and ninja executables for your workflows on your GitHub
 - [ddemidov/amgcl](https://github.com/ddemidov/amgcl) - C++ library for solving large sparse linear systems with algebraic multigrid method
@@ -664,6 +666,7 @@
 
 ## golang 
 
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [tierrun/tier](https://github.com/tierrun/tier) - Pricing As Code. One tool to manage your entire pricing stack. By @bmizerany @isaacs and @jevon
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -748,7 +751,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [minicli/action-contributors](https://github.com/minicli/action-contributors) - GitHub Action to dynamically update CONTRIBUTORS file
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 
@@ -904,6 +906,7 @@
 
 ## library 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## linux 
@@ -975,6 +978,7 @@
 
 ## mastodon 
 
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## material-design 
@@ -1093,6 +1097,10 @@
 
 ## others 
 
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+- [nvpro-samples/optix_advanced_samples](https://github.com/nvpro-samples/optix_advanced_samples) - 
+- [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [KanHarI/gpt-commit-summarizer](https://github.com/KanHarI/gpt-commit-summarizer) - 
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [KhronosGroup/SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - SPIRV-Reflect is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
@@ -1365,6 +1373,7 @@
 
 ## python 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
