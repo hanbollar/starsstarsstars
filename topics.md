@@ -95,6 +95,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [localization](#localization)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -155,6 +156,7 @@
 - [typescript](#typescript)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
@@ -165,6 +167,7 @@
 
 ## 3d 
 
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
 - [chenzhaiyu/points2poly](https://github.com/chenzhaiyu/points2poly) - Reconstructing compact building models from point clouds using deep implicit fields
@@ -198,6 +201,9 @@
 
 ## android 
 
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
+- [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [vsg-dev/VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Vulkan & C++17 based Scene Graph Project
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -242,6 +248,7 @@
 
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -347,6 +354,7 @@
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -383,6 +391,8 @@
 
 ## cpp 
 
+- [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
+- [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [kimkulling/osre](https://github.com/kimkulling/osre) - An open source render engine
 - [lukka/get-cmake](https://github.com/lukka/get-cmake) - Install and Cache latest CMake and ninja executables for your workflows on your GitHub
@@ -422,6 +432,7 @@
 
 ## css 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -481,6 +492,7 @@
 
 ## docker 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -571,6 +583,7 @@
 
 ## game 
 
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
 
@@ -590,6 +603,8 @@
 
 ## game-engine 
 
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [clibequilibrium/EquilibriumEngine](https://github.com/clibequilibrium/EquilibriumEngine) - Data-oriented and multi-threaded C11 Game Engine with libraries & shaders hot-reloading.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -765,6 +780,7 @@
 ## html 
 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
 ## http 
@@ -778,6 +794,9 @@
 
 ## ios 
 
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
+- [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -911,6 +930,8 @@
 
 ## linux 
 
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
+- [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [vsg-dev/VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Vulkan & C++17 based Scene Graph Project
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -927,6 +948,10 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
+## localization 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 
 ## lua 
 
@@ -945,6 +970,7 @@
 
 ## macos 
 
+- [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
 - [vsg-dev/VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Vulkan & C++17 based Scene Graph Project
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1032,6 +1058,7 @@
 
 ## node 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -1081,6 +1108,8 @@
 
 ## opengl 
 
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [kimkulling/osre](https://github.com/kimkulling/osre) - An open source render engine
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework
@@ -1097,6 +1126,8 @@
 
 ## others 
 
+- [mcneel/opennurbs](https://github.com/mcneel/opennurbs) - OpenNURBS libraries allow anyone to read and write the 3DM file format without the need for Rhino.
+- [GPUOpen-LibrariesAndSDKs/RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) - Render Pipeline Shaders SDK
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [nvpro-samples/optix_advanced_samples](https://github.com/nvpro-samples/optix_advanced_samples) - 
 - [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release
@@ -1396,6 +1427,7 @@
 
 ## pytorch 
 
+- [hzxie/GRNet](https://github.com/hzxie/GRNet) - Implementation of "GRNet: Gridding Residual Network for Dense Point Cloud Completion".  (Xie et al., ECCV 2020)
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup
@@ -1416,6 +1448,7 @@
 
 ## react 
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1578,6 +1611,8 @@
 
 ## typescript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
@@ -1601,6 +1636,10 @@
 
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [AntonPalmqvist/physically-based-api](https://github.com/AntonPalmqvist/physically-based-api) - A database of physically based values for CG artists.
+
+## vagrant 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 
 ## vim 
 
@@ -1645,6 +1684,8 @@
 
 ## windows 
 
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
+- [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [vsg-dev/VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Vulkan & C++17 based Scene Graph Project
 - [alaingalvan/CrossWindow](https://github.com/alaingalvan/CrossWindow) - 💻📱 A cross platform system abstraction library written in C++ for managing windows and performing OS tasks.
