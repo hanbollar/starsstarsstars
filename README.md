@@ -108,6 +108,12 @@
 
 ## C++ 
 
+- [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
+- [mcneel/opennurbs](https://github.com/mcneel/opennurbs) - OpenNURBS libraries allow anyone to read and write the 3DM file format without the need for Rhino.
+- [GPUOpen-LibrariesAndSDKs/RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) - Render Pipeline Shaders SDK
+- [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
+- [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [kimkulling/osre](https://github.com/kimkulling/osre) - An open source render engine
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
@@ -491,6 +497,7 @@
 
 ## Python 
 
+- [hzxie/GRNet](https://github.com/hzxie/GRNet) - Implementation of "GRNet: Gridding Residual Network for Dense Point Cloud Completion".  (Xie et al., ECCV 2020)
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
 - [chenzhaiyu/points2poly](https://github.com/chenzhaiyu/points2poly) - Reconstructing compact building models from point clouds using deep implicit fields
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -603,6 +610,7 @@
 
 ## Shell 
 
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
@@ -623,6 +631,8 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [lukka/get-cmake](https://github.com/lukka/get-cmake) - Install and Cache latest CMake and ninja executables for your workflows on your GitHub
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
