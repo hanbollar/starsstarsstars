@@ -108,6 +108,8 @@
 
 ## C++ 
 
+- [aras-p/dod-playground](https://github.com/aras-p/dod-playground) - Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018
+- [cdwfs/img2ktx](https://github.com/cdwfs/img2ktx) - Converts common image formats (PNG, JPG, etc.) to GPU-native compressed (BCn, ETC, ASTC) in KTX containers.
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 - [mcneel/opennurbs](https://github.com/mcneel/opennurbs) - OpenNURBS libraries allow anyone to read and write the 3DM file format without the need for Rhino.
 - [GPUOpen-LibrariesAndSDKs/RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) - Render Pipeline Shaders SDK
@@ -637,7 +639,7 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [lukka/get-cmake](https://github.com/lukka/get-cmake) - Install and Cache latest CMake and ninja executables for your workflows on your GitHub
+- [lukka/get-cmake](https://github.com/lukka/get-cmake) - Install and Cache latest CMake and Ninja for your workflows on your GitHub
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for physics simulations and other mathematical calculations
