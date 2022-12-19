@@ -287,7 +287,7 @@
 
 ## Go 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - **ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [tierrun/tier](https://github.com/tierrun/tier) - Pricing As Code. One tool to manage your entire pricing stack. By @bmizerany @isaacs and @jevon
@@ -470,7 +470,7 @@
 - [matiascodesal/awesome-usd](https://github.com/matiascodesal/awesome-usd) - A curated list of awesome Universal Scene Description (USD) resources and projects
 - [KittyCAD/support](https://github.com/KittyCAD/support) - Public-facing place for individuals to note issues, bugs, and feature requests. Contact support@kittycad.io for a private discussion instead.
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 🛠Helpful items for making open source hardware projects.
-- [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 A curated list of awesome things related to Engineering Strategy
+- [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership.
 - [TheRobotFactory/EightBit-Atari-Fonts](https://github.com/TheRobotFactory/EightBit-Atari-Fonts) - Fonts generated from original bitmaps from Atari 8bit computers
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [sedaoturak/data-resources-for-materials-science](https://github.com/sedaoturak/data-resources-for-materials-science) - A list of databases, datasets and books/handbooks where you can find materials properties for machine learning applications.
