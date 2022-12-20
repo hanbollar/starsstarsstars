@@ -389,6 +389,7 @@
 
 ## cpp 
 
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 - [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
@@ -587,6 +588,7 @@
 
 ## game-development 
 
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [clibequilibrium/EquilibriumEngine](https://github.com/clibequilibrium/EquilibriumEngine) - Data-oriented and multi-threaded C11 Game Engine with libraries & shaders hot-reloading.
@@ -602,6 +604,7 @@
 
 ## game-engine 
 
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 - [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [clibequilibrium/EquilibriumEngine](https://github.com/clibequilibrium/EquilibriumEngine) - Data-oriented and multi-threaded C11 Game Engine with libraries & shaders hot-reloading.
@@ -1122,6 +1125,8 @@
 
 ## others 
 
+- [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
+- [vsg-dev/vsgXchange](https://github.com/vsg-dev/vsgXchange) - Utility library for converting data+materials to/from VulkanSceneGraph
 - [aras-p/dod-playground](https://github.com/aras-p/dod-playground) - Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018
 - [cdwfs/img2ktx](https://github.com/cdwfs/img2ktx) - Converts common image formats (PNG, JPG, etc.) to GPU-native compressed (BCn, ETC, ASTC) in KTX containers.
 - [dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) - a medium inspired jekyll theme
