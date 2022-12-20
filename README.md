@@ -64,6 +64,8 @@
 
 ## C 
 
+- [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
+- [vsg-dev/vsgXchange](https://github.com/vsg-dev/vsgXchange) - Utility library for converting data+materials to/from VulkanSceneGraph
 - [nvpro-samples/optix_advanced_samples](https://github.com/nvpro-samples/optix_advanced_samples) - 
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [KhronosGroup/SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - SPIRV-Reflect is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
@@ -108,6 +110,7 @@
 
 ## C++ 
 
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 - [aras-p/dod-playground](https://github.com/aras-p/dod-playground) - Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018
 - [cdwfs/img2ktx](https://github.com/cdwfs/img2ktx) - Converts common image formats (PNG, JPG, etc.) to GPU-native compressed (BCn, ETC, ASTC) in KTX containers.
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
