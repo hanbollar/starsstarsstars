@@ -290,6 +290,7 @@
 
 ## Go 
 
+- [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - **ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -327,6 +328,7 @@
 - [thedevslot/WhatATheme](https://github.com/thedevslot/WhatATheme) - A customizable Jekyll Portfolio theme which supports blogging.
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [DavideBri/Gesko](https://github.com/DavideBri/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
+- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 
 ## Java 
@@ -380,7 +382,6 @@
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
@@ -443,6 +444,7 @@
 
 ## Others 
 
+- [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
@@ -504,6 +506,7 @@
 
 ## Python 
 
+- [walsvid/Pixel2MeshPlusPlus](https://github.com/walsvid/Pixel2MeshPlusPlus) - Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation. In ICCV2019.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [hzxie/GRNet](https://github.com/hzxie/GRNet) - Implementation of "GRNet: Gridding Residual Network for Dense Point Cloud Completion".  (Xie et al., ECCV 2020)
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
@@ -563,6 +566,7 @@
 
 ## Ruby 
 
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [thechangelog/nightly](https://github.com/thechangelog/nightly) - Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
