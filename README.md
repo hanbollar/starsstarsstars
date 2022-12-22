@@ -110,6 +110,8 @@
 
 ## C++ 
 
+- [mlivesu/cinolib](https://github.com/mlivesu/cinolib) - A generic programming header only C++ library for processing polygonal and polyhedral meshes
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 - [aras-p/dod-playground](https://github.com/aras-p/dod-playground) - Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018
 - [cdwfs/img2ktx](https://github.com/cdwfs/img2ktx) - Converts common image formats (PNG, JPG, etc.) to GPU-native compressed (BCn, ETC, ASTC) in KTX containers.
@@ -444,6 +446,9 @@
 
 ## Others 
 
+- [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
+- [deep-geometry/abc-dataset](https://github.com/deep-geometry/abc-dataset) - ABC: A Big CAD Model Dataset For Geometric Deep Learning
+- [CedricGuillemet/SDF](https://github.com/CedricGuillemet/SDF) - Collection of resources (papers, links, discussions, shadertoys,...) related to Signed Distance Field
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -506,6 +511,9 @@
 
 ## Python 
 
+- [czq142857/IM-NET](https://github.com/czq142857/IM-NET) - The improved code for paper "Learning Implicit Fields for Generative Shape Modeling".
+- [facebookresearch/DeepSDF](https://github.com/facebookresearch/DeepSDF) - Learning Continuous Signed Distance Functions for Shape Representation
+- [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
 - [walsvid/Pixel2MeshPlusPlus](https://github.com/walsvid/Pixel2MeshPlusPlus) - Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation. In ICCV2019.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [hzxie/GRNet](https://github.com/hzxie/GRNet) - Implementation of "GRNet: Gridding Residual Network for Dense Point Cloud Completion".  (Xie et al., ECCV 2020)
