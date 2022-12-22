@@ -165,6 +165,7 @@
 
 ## 3d 
 
+- [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [walsvid/Pixel2MeshPlusPlus](https://github.com/walsvid/Pixel2MeshPlusPlus) - Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation. In ICCV2019.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
@@ -390,6 +391,7 @@
 
 ## cpp 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 - [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
@@ -457,6 +459,7 @@
 
 ## database 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
@@ -620,6 +623,7 @@
 
 ## games 
 
+- [CedricGuillemet/SDF](https://github.com/CedricGuillemet/SDF) - Collection of resources (papers, links, discussions, shadertoys,...) related to Signed Distance Field
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
 
@@ -964,6 +968,7 @@
 
 ## machine-learning 
 
+- [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan,
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
@@ -1129,6 +1134,11 @@
 
 ## others 
 
+- [mlivesu/cinolib](https://github.com/mlivesu/cinolib) - A generic programming header only C++ library for processing polygonal and polyhedral meshes
+- [czq142857/IM-NET](https://github.com/czq142857/IM-NET) - The improved code for paper "Learning Implicit Fields for Generative Shape Modeling".
+- [deep-geometry/abc-dataset](https://github.com/deep-geometry/abc-dataset) - ABC: A Big CAD Model Dataset For Geometric Deep Learning
+- [facebookresearch/DeepSDF](https://github.com/facebookresearch/DeepSDF) - Learning Continuous Signed Distance Functions for Shape Representation
+- [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
