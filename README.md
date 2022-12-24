@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C++ KD-Tree implementation
 - [mlivesu/cinolib](https://github.com/mlivesu/cinolib) - A generic programming header only C++ library for processing polygonal and polyhedral meshes
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
@@ -512,6 +513,7 @@
 
 ## Python 
 
+- [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [czq142857/IM-NET](https://github.com/czq142857/IM-NET) - The improved code for paper "Learning Implicit Fields for Generative Shape Modeling".
 - [facebookresearch/DeepSDF](https://github.com/facebookresearch/DeepSDF) - Learning Continuous Signed Distance Functions for Shape Representation
 - [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
