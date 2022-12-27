@@ -517,6 +517,8 @@
 
 ## Python 
 
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [nschloe/meshio](https://github.com/nschloe/meshio) - :spider_web: input/output for many mesh formats
 - [czq142857/IM-NET](https://github.com/czq142857/IM-NET) - The improved code for paper "Learning Implicit Fields for Generative Shape Modeling".
 - [facebookresearch/DeepSDF](https://github.com/facebookresearch/DeepSDF) - Learning Continuous Signed Distance Functions for Shape Representation
@@ -679,7 +681,7 @@
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck
 - [SteamDeckHomebrew/decky-playground](https://github.com/SteamDeckHomebrew/decky-playground) - A playground for all extracted decky components
 - [EricBollar/Fullstack-Forum](https://github.com/EricBollar/Fullstack-Forum) - A fullstack forum built using industry-standard tools such as Next.js and PostgresQL. Allows users to create accounts, create/edit/delete posts, and up/down vote posts.
-- [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - 
+- [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
