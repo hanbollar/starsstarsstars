@@ -105,6 +105,7 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
+- [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
@@ -448,7 +449,6 @@
 
 ## data 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## data-analysis 
@@ -1046,6 +1046,10 @@
 ## monitoring 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## music 
+
+- [staff-rs/staff](https://github.com/staff-rs/staff) - Music theory CLI and library with midi, notes, chords, scales, and more
 
 ## mysql 
 
