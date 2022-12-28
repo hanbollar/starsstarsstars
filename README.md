@@ -595,6 +595,7 @@
 
 ## Rust 
 
+- [staff-rs/staff](https://github.com/staff-rs/staff) - Music theory CLI and library with midi, notes, chords, scales, and more
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
