@@ -118,7 +118,6 @@
 - [opengl](#opengl)
 - [osint](#osint)
 - [others](#others)
-- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [php](#php)
@@ -1404,10 +1403,6 @@
 - [jagenjo/collada.js](https://github.com/jagenjo/collada.js) - Collada parser in javascript. It supports skinning, morph targets and bone or node animation. It can parse inside a worker.
 - [rmx/threejs-collada](https://github.com/rmx/threejs-collada) - An alternative COLLADA loader for the three.js project
 - [ashoulson/VolatilePhysics](https://github.com/ashoulson/VolatilePhysics) - A 2D Physics Library for Networked Games
-
-## p2p 
-
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 
 ## package-manager 
 
