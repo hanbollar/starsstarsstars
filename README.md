@@ -585,6 +585,7 @@
 
 ## Ruby 
 
+- [jekyll/github-metadata](https://github.com/jekyll/github-metadata) - Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [thechangelog/nightly](https://github.com/thechangelog/nightly) - Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.
@@ -597,6 +598,7 @@
 
 ## Rust 
 
+- [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [Smithay/drm-rs](https://github.com/Smithay/drm-rs) - A low-level abstraction of the Direct Rendering Manager API
 - [staff-rs/staff](https://github.com/staff-rs/staff) - Music theory CLI and library with midi, notes, chords, scales, and more
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -669,6 +671,7 @@
 
 ## TypeScript 
 
+- [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [matvp91/indigo-player](https://github.com/matvp91/indigo-player) - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [prasanaworld/puppeteer-screen-recorder](https://github.com/prasanaworld/puppeteer-screen-recorder) - 
