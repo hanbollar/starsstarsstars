@@ -1155,6 +1155,7 @@
 
 ## others 
 
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [matvp91/indigo-player](https://github.com/matvp91/indigo-player) - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [PrincessGod/objTo3d-tiles](https://github.com/PrincessGod/objTo3d-tiles) - Convert obj model file to 3d tiles
