@@ -665,7 +665,7 @@
 
 ## Swift 
 
-- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Low Maintenance Self-Hosted macOS CI on Silicon using Apple's Virtualization Framework
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
