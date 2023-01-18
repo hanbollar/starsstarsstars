@@ -525,6 +525,7 @@
 
 ## Python 
 
+- [toomuchvoltage/shadertoy-utils](https://github.com/toomuchvoltage/shadertoy-utils) - One-click utilities that turn images/sounds into shadertoy code! :)
 - [facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel) - Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
@@ -728,7 +729,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
