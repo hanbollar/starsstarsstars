@@ -201,7 +201,6 @@
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [NVIDIA/optix-toolkit](https://github.com/NVIDIA/optix-toolkit) - Set of utilities supporting workflows common in GPU raytracing applications
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
@@ -258,6 +257,7 @@
 
 - [humbletim/setup-vulkan-sdk](https://github.com/humbletim/setup-vulkan-sdk) - github action that provisions the Vulkan SDK and configures VULKAN_SDK environment variable
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [NVIDIA/optix-toolkit](https://github.com/NVIDIA/optix-toolkit) - Set of utilities supporting workflows common in GPU raytracing applications
 
 ## CSS 
 
@@ -328,6 +328,7 @@
 
 - [jsanz/gh-pages-minima-starter](https://github.com/jsanz/gh-pages-minima-starter) - A minimal example for running Github Pages with the minima theme.
 - [dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) - a medium inspired jekyll theme
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [KhronosGroup/VulkanSC-Registry](https://github.com/KhronosGroup/VulkanSC-Registry) - Vulkan SC API and Extension Registry
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
@@ -551,7 +552,6 @@
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [rgl-epfl/differentiable-sdf-rendering](https://github.com/rgl-epfl/differentiable-sdf-rendering) - Source code for "Differentiable Signed Distance Function Rendering" (Siggraph 2022)
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
-- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
