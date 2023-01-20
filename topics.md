@@ -403,7 +403,7 @@
 - [kimkulling/osre](https://github.com/kimkulling/osre) - An open source render engine
 - [lukka/get-cmake](https://github.com/lukka/get-cmake) - Install and Cache latest CMake and Ninja for your workflows on your GitHub
 - [ddemidov/amgcl](https://github.com/ddemidov/amgcl) - C++ library for solving large sparse linear systems with algebraic multigrid method
-- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework
+- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera) - C++/WASM GL Framework
 - [KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [jeremyong/coop](https://github.com/jeremyong/coop) - C++20 coroutines-based cooperative multitasking library
@@ -1065,6 +1065,7 @@
 
 ## neovim 
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -1144,7 +1145,7 @@
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [kimkulling/osre](https://github.com/kimkulling/osre) - An open source render engine
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
-- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera) - C++/WASM Graphic Framework
+- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera) - C++/WASM GL Framework
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [alaingalvan/CrossWindow-Demos](https://github.com/alaingalvan/CrossWindow-Demos) - 🥪 Examples of how to use CrossWindow for things like rendering graphics, listening to events, etc.
 - [alaingalvan/CrossWindow-Graphics](https://github.com/alaingalvan/CrossWindow-Graphics) - A header only library to simplify creating 🌋 Vulkan / ⚪ OpenGL / 🌐 WebGL / ❎DirectX / 🤖 Metal data structures with CrossWindow.
@@ -1165,7 +1166,6 @@
 - [toomuchvoltage/shadertoy-utils](https://github.com/toomuchvoltage/shadertoy-utils) - One-click utilities that turn images/sounds into shadertoy code! :)
 - [iOrange/rtxON](https://github.com/iOrange/rtxON) - Simple Vulkan raytracing tutorials
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [lzqsd/OptixRenderer](https://github.com/lzqsd/OptixRenderer) - An optix-based GPU path tracer
 - [facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel) - Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
@@ -1421,7 +1421,7 @@
 
 ## package-manager 
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
 
