@@ -79,6 +79,7 @@
 - [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf) - :diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99
 - [clibequilibrium/EquilibriumEngine](https://github.com/clibequilibrium/EquilibriumEngine) - Data-oriented and multi-threaded C11 Game Engine with libraries & shaders hot-reloading.
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
+- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
@@ -422,6 +423,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan,
 - [vishwesh5/Paper-a-day](https://github.com/vishwesh5/Paper-a-day) - An attempt at a paper a day
@@ -529,6 +531,7 @@
 
 ## Python 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [toomuchvoltage/shadertoy-utils](https://github.com/toomuchvoltage/shadertoy-utils) - One-click utilities that turn images/sounds into shadertoy code! :)
 - [facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel) - Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
@@ -560,7 +563,7 @@
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [uvipen/ASCII-generator](https://github.com/uvipen/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
-- [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, formerly mps-youtube, is a Terminal based YouTube player and downloader.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
@@ -673,7 +676,6 @@
 ## Swift 
 
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
