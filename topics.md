@@ -1166,6 +1166,8 @@
 
 ## others 
 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [cnr-isti-vclab/vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
 - [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla) - Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 - [m-schuetz/CudaPlayground](https://github.com/m-schuetz/CudaPlayground) - 
@@ -1283,7 +1285,7 @@
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
-- [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, formerly mps-youtube, is a Terminal based YouTube player and downloader.
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
