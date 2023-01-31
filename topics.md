@@ -1167,6 +1167,9 @@
 
 ## others 
 
+- [SaschaWillems/VulkanTemplate](https://github.com/SaschaWillems/VulkanTemplate) - Vulkan template with light abstraction as a base for personal projects
+- [PacktPublishing/Mastering-Graphics-Programming-with-Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan) - 
+- [aras-p/float_compr_tester](https://github.com/aras-p/float_compr_tester) - Testing various libraries/approaches for compressing floating point data
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [cnr-isti-vclab/vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
@@ -1686,6 +1689,7 @@
 
 ## terminal 
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
