@@ -114,6 +114,9 @@
 
 ## C++ 
 
+- [SaschaWillems/VulkanTemplate](https://github.com/SaschaWillems/VulkanTemplate) - Vulkan template with light abstraction as a base for personal projects
+- [PacktPublishing/Mastering-Graphics-Programming-with-Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan) - 
+- [aras-p/float_compr_tester](https://github.com/aras-p/float_compr_tester) - Testing various libraries/approaches for compressing floating point data
 - [cnr-isti-vclab/vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
 - [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla) - Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 - [m-schuetz/CudaPlayground](https://github.com/m-schuetz/CudaPlayground) - 
@@ -612,6 +615,7 @@
 
 ## Rust 
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [Smithay/drm-rs](https://github.com/Smithay/drm-rs) - A low-level abstraction of the Direct Rendering Manager API
