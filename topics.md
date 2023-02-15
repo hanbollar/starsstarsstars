@@ -1074,7 +1074,7 @@
 
 ## music 
 
-- [NoteCompose/staff](https://github.com/NoteCompose/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
+- [matthunz/staff](https://github.com/matthunz/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
 
 ## mysql 
 
@@ -1625,7 +1625,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [Smithay/drm-rs](https://github.com/Smithay/drm-rs) - A low-level abstraction of the Direct Rendering Manager API
-- [NoteCompose/staff](https://github.com/NoteCompose/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
+- [matthunz/staff](https://github.com/matthunz/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
