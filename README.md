@@ -506,7 +506,7 @@
 - [KittyCAD/support](https://github.com/KittyCAD/support) - Public-facing place for individuals to note issues, bugs, and feature requests. Contact support@kittycad.io for a private discussion instead.
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 🛠Helpful items for making open source hardware projects.
 - [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership.
-- [TheRobotFactory/EightBit-Atari-Fonts](https://github.com/TheRobotFactory/EightBit-Atari-Fonts) - Fonts generated from original bitmaps from Atari 8bit computers
+- [a8bit/EightBit-Atari-Fonts](https://github.com/a8bit/EightBit-Atari-Fonts) - Fonts generated from original bitmaps from Atari 8bit computers
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [sedaoturak/data-resources-for-materials-science](https://github.com/sedaoturak/data-resources-for-materials-science) - A list of databases, datasets and books/handbooks where you can find materials properties for machine learning applications.
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
@@ -671,7 +671,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for Magnum C++11/C++14 graphics engine
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit changed files back to GitHub with this GitHub Action for the 80% use case.
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [nielsvaneck/render-md-mermaid](https://github.com/nielsvaneck/render-md-mermaid) - GitHub Action & Utility for rendering Mermaid-JS diagrams in Markdown files for display on GitHub
@@ -735,7 +735,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
