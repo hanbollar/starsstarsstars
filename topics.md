@@ -969,6 +969,7 @@
 
 ## library 
 
+- [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
