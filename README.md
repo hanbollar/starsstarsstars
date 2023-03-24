@@ -113,6 +113,7 @@
 
 ## C++ 
 
+- [cginternals/cppfs](https://github.com/cginternals/cppfs) - Cross-platform C++ file system library supporting multiple backends
 - [swr06/VoxelPathTracer](https://github.com/swr06/VoxelPathTracer) - A Voxel Tracer
 - [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
 - [ingowald/optix7course](https://github.com/ingowald/optix7course) - 
@@ -265,6 +266,8 @@
 
 ## CMake 
 
+- [cginternals/cpplocate](https://github.com/cginternals/cpplocate) - Cross-platform C++ library providing tools for applications to locate themselves, their data assets as well as dependent modules.
+- [cginternals/cmake-init](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using cmake.
 - [humbletim/setup-vulkan-sdk](https://github.com/humbletim/setup-vulkan-sdk) - github action that provisions the Vulkan SDK and configures VULKAN_SDK environment variable
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [NVIDIA/optix-toolkit](https://github.com/NVIDIA/optix-toolkit) - Set of utilities supporting workflows common in GPU raytracing applications
