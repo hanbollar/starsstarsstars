@@ -266,6 +266,7 @@
 
 ## CMake 
 
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
 - [cginternals/cpplocate](https://github.com/cginternals/cpplocate) - Cross-platform C++ library providing tools for applications to locate themselves, their data assets as well as dependent modules.
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using cmake.
 - [humbletim/setup-vulkan-sdk](https://github.com/humbletim/setup-vulkan-sdk) - github action that provisions the Vulkan SDK and configures VULKAN_SDK environment variable
@@ -628,6 +629,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [attackgoat/screen-13](https://github.com/attackgoat/screen-13) - Screen 13 is an easy-to-use Vulkan rendering engine in the spirit of QBasic.
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Softbuffer integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way while using the very high quality dedicated window management libraries that are available i
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
@@ -728,7 +730,7 @@
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for physics simulations and other mathematical calculations
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
