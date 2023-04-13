@@ -371,6 +371,7 @@
 
 ## JavaScript 
 
+- [Twinklebear/webgpu-gltf](https://github.com/Twinklebear/webgpu-gltf) - A glTF loader and viewer using WebGPU
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -485,6 +486,7 @@
 
 ## Others 
 
+- [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
