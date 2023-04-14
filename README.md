@@ -315,6 +315,7 @@
 
 ## GLSL 
 
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
 - [nicoptere/raymarching-for-THREE](https://github.com/nicoptere/raymarching-for-THREE) - a helper to work with raymarching in THREE.js
 
 ## Go 
