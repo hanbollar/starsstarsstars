@@ -1247,7 +1247,7 @@
 - [FrameworkComputer/inputmodule-rs](https://github.com/FrameworkComputer/inputmodule-rs) - Framework Laptop 16 Input Module SW/FW
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [NVIDIAGameWorks/Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) - Real-time path tracing library and sample
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [cginternals/cpplocate](https://github.com/cginternals/cpplocate) - Cross-platform C++ library providing tools for applications to locate themselves, their data assets as well as dependent modules.
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using cmake.
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Softbuffer integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way while using the very high quality dedicated window management libraries that are available i
