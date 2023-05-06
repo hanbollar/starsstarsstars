@@ -136,7 +136,7 @@
 - [lzqsd/OptixRenderer](https://github.com/lzqsd/OptixRenderer) - An optix-based GPU path tracer
 - [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C++ KD-Tree implementation
 - [mlivesu/cinolib](https://github.com/mlivesu/cinolib) - A generic programming header only C++ library for processing polygonal and polyhedral meshes
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 - [aras-p/dod-playground](https://github.com/aras-p/dod-playground) - Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018
 - [cdwfs/img2ktx](https://github.com/cdwfs/img2ktx) - Converts common image formats (PNG, JPG, etc.) to GPU-native compressed (BCn, ETC, ASTC) in KTX containers.
@@ -726,7 +726,7 @@
 
 ## TypeScript 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
