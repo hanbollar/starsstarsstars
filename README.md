@@ -117,6 +117,7 @@
 - [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for C/C++/Rust compiler errors.
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [EricLengyel/Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [NVIDIAGameWorks/Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) - Real-time path tracing library and sample
 - [cginternals/cppfs](https://github.com/cginternals/cppfs) - Cross-platform C++ file system library supporting multiple backends
 - [swr06/VoxelPathTracer](https://github.com/swr06/VoxelPathTracer) - A Voxel Tracer
@@ -558,7 +559,6 @@
 ## Python 
 
 - [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
 - [mitsuba-renderer/mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) - Mitsuba integration add-on for Blender
@@ -758,7 +758,7 @@
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [framefactory/webgpu.rocks](https://github.com/framefactory/webgpu.rocks) - WebGPU quick reference and documentation
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
