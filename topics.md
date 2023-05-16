@@ -1709,7 +1709,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-- [hannobraun/Fornjot](https://github.com/hannobraun/Fornjot) - Early-stage, next-generation, code-first CAD application. Because the world needs another CAD program.
+- [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
