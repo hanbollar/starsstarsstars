@@ -559,7 +559,7 @@
 ## Python 
 
 - [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - 
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
 - [mitsuba-renderer/mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) - Mitsuba integration add-on for Blender
 - [toomuchvoltage/shadertoy-utils](https://github.com/toomuchvoltage/shadertoy-utils) - One-click utilities that turn images, sounds and even voxels into shadertoy code! :)
@@ -728,7 +728,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
