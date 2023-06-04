@@ -69,6 +69,7 @@
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [vsg-dev/vsgXchange](https://github.com/vsg-dev/vsgXchange) - Utility library for converting data+materials to/from VulkanSceneGraph
+- [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 - [nvpro-samples/optix_advanced_samples](https://github.com/nvpro-samples/optix_advanced_samples) - 
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [KhronosGroup/SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - SPIRV-Reflect is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
@@ -144,7 +145,6 @@
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 - [mcneel/opennurbs](https://github.com/mcneel/opennurbs) - OpenNURBS libraries allow anyone to read and write the 3DM file format without the need for Rhino.
 - [GPUOpen-LibrariesAndSDKs/RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) - Render Pipeline Shaders SDK
-- [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
