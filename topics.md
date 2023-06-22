@@ -1474,7 +1474,7 @@
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [Traverse-Research/gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - 🦀 Memory allocator written in pure Rust for GPU memory in Vulkan and DirectX 12
 - [fougue/mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
-- [PixarAnimationStudios/USD](https://github.com/PixarAnimationStudios/USD) - Universal Scene Description
+- [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
 - [oppenheimj/guppy](https://github.com/oppenheimj/guppy) - 
