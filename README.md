@@ -358,7 +358,7 @@
 - [AntonPalmqvist/physically-based-api](https://github.com/AntonPalmqvist/physically-based-api) - A database of physically based values for CG artists.
 - [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - :ramen: Minimalist Jekyll Template, dark and light themes
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
-- [nousrnme/el-terminal](https://github.com/nousrnme/el-terminal) - Jekyll Site Terminal Theme with WinBoxJs
+- [nayown/el-terminal](https://github.com/nayown/el-terminal) - Jekyll Site Terminal Theme with WinBoxJs
 - [thedevslot/WhatATheme](https://github.com/thedevslot/WhatATheme) - A customizable Jekyll Portfolio theme which supports blogging.
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [DavideBri/Gesko](https://github.com/DavideBri/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
