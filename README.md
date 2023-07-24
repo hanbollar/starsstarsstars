@@ -65,6 +65,7 @@
 
 ## C 
 
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [ascent12/drm_doc](https://github.com/ascent12/drm_doc) - How to write a Linux DRM application
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
