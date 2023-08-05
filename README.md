@@ -520,9 +520,8 @@
 - [bitnami/vms](https://github.com/bitnami/vms) - Bitnami VMs
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
-- [usd-wg/assets](https://github.com/usd-wg/assets) - USD Working Group assets
 - [whatthefilament/Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - 3D Printable Tablet Case for Framework Laptop
-- [matiascodesal/awesome-usd](https://github.com/matiascodesal/awesome-usd) - A curated list of awesome Universal Scene Description (USD) resources and projects
+- [matiascodesal/awesome-openusd](https://github.com/matiascodesal/awesome-openusd) - A curated list of awesome Universal Scene Description (OpenUSD) resources and projects
 - [KittyCAD/support](https://github.com/KittyCAD/support) - Public-facing place for individuals to note issues, bugs, and feature requests. Contact support@kittycad.io for a private discussion instead.
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 🛠Helpful items for making open source hardware projects.
 - [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership.
@@ -602,6 +601,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+- [usd-wg/assets](https://github.com/usd-wg/assets) - USD Working Group assets
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [hansen7/OcCo](https://github.com/hansen7/OcCo) - [ICCV '21] "Unsupervised Point Cloud Pre-training via Occlusion Completion"
 - [cheind/sdftoolbox](https://github.com/cheind/sdftoolbox) - Vectorized Python methods for creating, manipulating and tessellating signed distance fields.
