@@ -1458,7 +1458,7 @@
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
-- [matiascodesal/awesome-usd](https://github.com/matiascodesal/awesome-usd) - A curated list of awesome Universal Scene Description (USD) resources and projects
+- [matiascodesal/awesome-openusd](https://github.com/matiascodesal/awesome-openusd) - A curated list of awesome Universal Scene Description (OpenUSD) resources and projects
 - [KittyCAD/support](https://github.com/KittyCAD/support) - Public-facing place for individuals to note issues, bugs, and feature requests. Contact support@kittycad.io for a private discussion instead.
 - [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
 - [GPUOpen-Effects/FidelityFX-FSR2](https://github.com/GPUOpen-Effects/FidelityFX-FSR2) - FidelityFX Super Resolution 2
