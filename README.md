@@ -641,6 +641,7 @@
 
 ## Rust 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [FrameworkComputer/inputmodule-rs](https://github.com/FrameworkComputer/inputmodule-rs) - Framework Laptop 16 Input Module SW/FW
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [attackgoat/screen-13](https://github.com/attackgoat/screen-13) - Screen 13 is an easy-to-use Vulkan rendering engine in the spirit of QBasic.
