@@ -446,7 +446,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Neargye/nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
-- [copperspice/copperspice](https://github.com/copperspice/copperspice) - Cross platform C++ libraries
+- [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Gui, Network, Multimedia, etc)
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
 - [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
 - [lukka/run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake  (CMakePresets.json), Ninja and vcpkg on GitHub.
@@ -1232,6 +1232,7 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Gui, Network, Multimedia, etc)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
