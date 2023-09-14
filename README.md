@@ -117,7 +117,7 @@
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [EricLengyel/Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [NVIDIAGameWorks/Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) - Real-time path tracing library and sample
 - [cginternals/cppfs](https://github.com/cginternals/cppfs) - Cross-platform C++ file system library supporting multiple backends
 - [swr06/VoxelPathTracer](https://github.com/swr06/VoxelPathTracer) - A Voxel Tracer
@@ -752,7 +752,7 @@
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
-- [teaxyz/cli](https://github.com/teaxyz/cli) - tea: run anything
+- [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
