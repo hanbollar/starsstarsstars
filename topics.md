@@ -1161,7 +1161,7 @@
 
 ## music 
 
-- [matthunz/staff](https://github.com/matthunz/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
+- [staff-rs/staff](https://github.com/staff-rs/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
 
 ## mysql 
 
@@ -1232,6 +1232,7 @@
 ## open-source 
 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Gui, Network, Multimedia, etc)
@@ -1744,7 +1745,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [Smithay/drm-rs](https://github.com/Smithay/drm-rs) - A low-level abstraction of the Direct Rendering Manager API
-- [matthunz/staff](https://github.com/matthunz/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
+- [staff-rs/staff](https://github.com/staff-rs/staff) - Music theory and score rendering library with midi, notes, chords, scales, and more.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
