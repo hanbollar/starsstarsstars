@@ -1310,7 +1310,7 @@
 - [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla) - Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 - [m-schuetz/CudaPlayground](https://github.com/m-schuetz/CudaPlayground) - 
 - [toomuchvoltage/shadertoy-utils](https://github.com/toomuchvoltage/shadertoy-utils) - One-click utilities that turn images, sounds and even voxels into shadertoy code! :)
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs. This project does not store and distribut
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. This project does not store and distribute copies of documents, but only provides indexing and searching.
 - [iOrange/rtxON](https://github.com/iOrange/rtxON) - Simple Vulkan raytracing tutorials
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [lzqsd/OptixRenderer](https://github.com/lzqsd/OptixRenderer) - An optix-based GPU path tracer
@@ -1388,7 +1388,7 @@
 - [huggingface/simulate](https://github.com/huggingface/simulate) - 🎢 Creating and sharing simulation environments for embodied and synthetic data research
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
-- [libigl/libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
+- [libigl/libigl](https://github.com/libigl/libigl) - Simple MPL-2.0-licensed C++ geometry processing library.
 - [rgl-epfl/differentiable-sdf-rendering](https://github.com/rgl-epfl/differentiable-sdf-rendering) - Source code for "Differentiable Signed Distance Function Rendering" (Siggraph 2022)
 - [Khan/pull-request-comment-trigger](https://github.com/Khan/pull-request-comment-trigger) - A github action for detecting a "trigger" in a pull request description or comment
 - [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
