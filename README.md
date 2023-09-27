@@ -115,6 +115,7 @@
 ## C++ 
 
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+- [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [EricLengyel/Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
@@ -561,7 +562,6 @@
 
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
