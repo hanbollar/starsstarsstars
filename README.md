@@ -271,7 +271,7 @@
 - [tgalaj/OpenGLSampleCmake](https://github.com/tgalaj/OpenGLSampleCmake) - Sample CMake for OpenGL based projects.
 - [sun1211/cmake_with_add_subdirectory](https://github.com/sun1211/cmake_with_add_subdirectory) - 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
+- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - [ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl
 - [AmanSachan1/Meteoros](https://github.com/AmanSachan1/Meteoros) - Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
 
 ## CMake 
