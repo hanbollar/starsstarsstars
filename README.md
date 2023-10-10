@@ -235,7 +235,6 @@
 - [InteractiveComputerGraphics/Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) - A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the discretization of signed distance fields.
 - [eidosmontreal/unreal-vdb](https://github.com/eidosmontreal/unreal-vdb) - This repo is a non-official Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.
 - [davidstutz/mesh-voxelization](https://github.com/davidstutz/mesh-voxelization) - C++ implementation for computing occupancy grids and signed distance functions (SDFs) from watertight meshes.
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen) - A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [elalish/manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
@@ -431,6 +430,7 @@
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [oppenheimj/guppy](https://github.com/oppenheimj/guppy) - 
