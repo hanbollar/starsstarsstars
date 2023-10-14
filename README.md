@@ -151,7 +151,7 @@
 - [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Geometry processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [kimkulling/osre](https://github.com/kimkulling/osre) - An open source render engine
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [GPUVerb/Planeverb](https://github.com/GPUVerb/Planeverb) - Project Planeverb is a CPU based real-time wave-based acoustics engine for games. It comes with an integration with the Unity Engine.
@@ -746,7 +746,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
