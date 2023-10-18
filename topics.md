@@ -1339,7 +1339,7 @@
 - [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla) - Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 - [m-schuetz/CudaPlayground](https://github.com/m-schuetz/CudaPlayground) - 
 - [toomuchvoltage/shadertoy-utils](https://github.com/toomuchvoltage/shadertoy-utils) - One-click utilities that turn images, sounds and even voxels into shadertoy code! :)
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
 - [iOrange/rtxON](https://github.com/iOrange/rtxON) - Simple Vulkan raytracing tutorials
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [lzqsd/OptixRenderer](https://github.com/lzqsd/OptixRenderer) - An optix-based GPU path tracer
