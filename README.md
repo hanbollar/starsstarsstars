@@ -28,6 +28,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Objective-C++](#objective-c++)
@@ -423,6 +424,7 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [raviriley/agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) - Jekyll version of the newest Agency Bootstrap theme, plus new features: Google Analytics, Markdown support, custom pages, and more!
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [MaciejWiatr/notion-export](https://github.com/MaciejWiatr/notion-export) - Simple notion utility that allows you to export notion pages programatically
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -486,6 +488,10 @@
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 
+## MDX 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
 ## Makefile 
 
 - [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
@@ -512,7 +518,6 @@
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [deep-geometry/abc-dataset](https://github.com/deep-geometry/abc-dataset) - ABC: A Big CAD Model Dataset For Geometric Deep Learning
 - [CedricGuillemet/SDF](https://github.com/CedricGuillemet/SDF) - Collection of resources (papers, links, discussions, shadertoys,...) related to Signed Distance Field
@@ -799,7 +804,6 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
