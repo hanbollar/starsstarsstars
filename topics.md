@@ -346,7 +346,6 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
 ## bioinformatics 
@@ -580,7 +579,6 @@
 - [hansen7/OcCo](https://github.com/hansen7/OcCo) - [ICCV '21] "Unsupervised Point Cloud Pre-training via Occlusion Completion"
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
-- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 
 ## documentation 
 
@@ -1122,7 +1120,6 @@
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
@@ -1546,7 +1543,6 @@
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 - [matiascodesal/awesome-openusd](https://github.com/matiascodesal/awesome-openusd) - A curated list of awesome Universal Scene Description (OpenUSD) resources and projects
-- [KittyCAD/support](https://github.com/KittyCAD/support) - Public-facing place for individuals to note issues, bugs, and feature requests. Contact support@kittycad.io for a private discussion instead.
 - [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
 - [GPUOpen-Effects/FidelityFX-FSR2](https://github.com/GPUOpen-Effects/FidelityFX-FSR2) - FidelityFX Super Resolution 2
 - [cheind/sdftoolbox](https://github.com/cheind/sdftoolbox) - Vectorized Python methods for creating, manipulating and tessellating signed distance fields.
@@ -1621,7 +1617,6 @@
 - [marian42/mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes
 - [aman-tiwari/MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) - Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
-- [KittyCAD/community](https://github.com/KittyCAD/community) - 
 - [AmanSachan1/Meteoros](https://github.com/AmanSachan1/Meteoros) - Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
 - [mccannd/Project-Marshmallow](https://github.com/mccannd/Project-Marshmallow) - Vulkan-based implementation of clouds from Decima Engine
 - [hoverinc/ray-tracing-renderer](https://github.com/hoverinc/ray-tracing-renderer) - [UNMAINTAINED] Real-time path tracing on the web with three.js
@@ -1885,7 +1880,6 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 
 ## sketch 
