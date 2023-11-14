@@ -976,6 +976,7 @@
 
 ## javascript 
 
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration.
 - [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Pairs with htmx. Locality of Behavior.  Use one element or arrays transparently. Vanilla querySelector() but better!
 - [laurentpayot/verticalize](https://github.com/laurentpayot/verticalize) - A pipe-like function to verticalize your JavaScript code
@@ -1337,6 +1338,7 @@
 
 ## others 
 
+- [with-labs/popspace](https://github.com/with-labs/popspace) - Comprehensive source for PopSpace, virtual spaces for everybody
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
 - [AcademySoftwareFoundation/OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
@@ -1948,6 +1950,7 @@
 
 ## testing 
 
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [4lejandrito/fetchbook](https://github.com/4lejandrito/fetchbook) - Run and test your HTTP requests. Git friendly, 100% local.
 - [boost-ext/ut](https://github.com/boost-ext/ut) - UT: C++20 μ(micro)/Unit Testing Framework
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
