@@ -755,6 +755,8 @@
 
 ## TypeScript 
 
+- [with-labs/popspace](https://github.com/with-labs/popspace) - Comprehensive source for PopSpace, virtual spaces for everybody
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
