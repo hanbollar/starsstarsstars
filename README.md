@@ -757,6 +757,7 @@
 
 ## TypeScript 
 
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [amborle/featmap](https://github.com/amborle/featmap) - The simple and open source user story mapping tool.
 - [with-labs/popspace](https://github.com/with-labs/popspace) - Comprehensive source for PopSpace, virtual spaces for everybody
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
