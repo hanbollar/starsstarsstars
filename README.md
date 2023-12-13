@@ -20,6 +20,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [G-code](#g-code)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -327,6 +328,10 @@
 
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 
+## G-code 
+
+- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
+
 ## GLSL 
 
 - [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
@@ -334,6 +339,7 @@
 
 ## Go 
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 - [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release
@@ -468,7 +474,7 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
-- [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - 
+- [FullControlXYZ/fullcontrol](https://github.com/FullControlXYZ/fullcontrol) - Python version of FullControl for toolpath design (and more) - the readme below is best source of information
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
@@ -512,7 +518,6 @@
 ## OpenSCAD 
 
 - [Irev-Dev/code-first-microphone-brace](https://github.com/Irev-Dev/code-first-microphone-brace) - 
-- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
 ## Others 
 
