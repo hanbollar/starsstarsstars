@@ -397,6 +397,9 @@
 
 ## JavaScript 
 
+- [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
+- [davidshimjs/jaguarjs-jsdoc](https://github.com/davidshimjs/jaguarjs-jsdoc) - A Template of jsdoc for jaguar.js project
+- [nhn/tui.jsdoc-template](https://github.com/nhn/tui.jsdoc-template) - TUI JSDoc Template, Demo: https://nhnent.github.io/tui.jsdoc-template/latest/
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Renderer for 3D Tiles in Javascript using three.js
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
