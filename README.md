@@ -524,6 +524,7 @@
 
 ## Others 
 
+- [Volumetrics-io/interview-assignments](https://github.com/Volumetrics-io/interview-assignments) - a collection of actively maintained take home assignments for technical and design interviews
 - [beeper/sdk-docs](https://github.com/beeper/sdk-docs) - Documentation for various SDKs that can be used with Beeper
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
