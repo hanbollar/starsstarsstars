@@ -24,6 +24,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -388,6 +389,10 @@
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 
+## Haskell 
+
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
 ## Java 
 
 - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages
@@ -398,6 +403,7 @@
 
 ## JavaScript 
 
+- [khrome/ascii-art](https://github.com/khrome/ascii-art) - A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [davidshimjs/jaguarjs-jsdoc](https://github.com/davidshimjs/jaguarjs-jsdoc) - A Template of jsdoc for jaguar.js project
 - [nhn/tui.jsdoc-template](https://github.com/nhn/tui.jsdoc-template) - TUI JSDoc Template, Demo: https://nhnent.github.io/tui.jsdoc-template/latest/
@@ -787,7 +793,7 @@
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
