@@ -71,6 +71,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -744,6 +745,10 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
 
+## gis 
+
+- [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Renderer for 3D Tiles in Javascript using three.js
+
 ## git 
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -1352,7 +1357,6 @@
 - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages
 - [lobau/lastquestion](https://github.com/lobau/lastquestion) - 
 - [robmcrosby/BlenderUSDZ](https://github.com/robmcrosby/BlenderUSDZ) - Simple USDZ file exporter plugin for Blender3D
-- [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Renderer for 3D Tiles in Javascript using three.js
 - [with-labs/popspace](https://github.com/with-labs/popspace) - Comprehensive source for PopSpace, virtual spaces for everybody
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
