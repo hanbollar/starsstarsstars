@@ -1177,6 +1177,7 @@
 
 ## markdown 
 
+- [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
