@@ -20,7 +20,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
-- [G-code](#g-code)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -329,10 +328,6 @@
 
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 
-## G-code 
-
-- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
-
 ## GLSL 
 
 - [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
@@ -529,6 +524,7 @@
 ## OpenSCAD 
 
 - [Irev-Dev/code-first-microphone-brace](https://github.com/Irev-Dev/code-first-microphone-brace) - 
+- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
 ## Others 
 
