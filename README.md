@@ -477,6 +477,7 @@
 
 ## Jupyter Notebook 
 
+- [adnanwahab/Simple-GPU](https://github.com/adnanwahab/Simple-GPU) - 🦒 Functional WebGPU
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
