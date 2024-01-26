@@ -1388,7 +1388,7 @@
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Siri, but for your  own product. ship an AI copilot for your product in minutes.
 - [beeper/sdk-docs](https://github.com/beeper/sdk-docs) - Documentation for various SDKs that can be used with Beeper
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
 - [Twinklebear/webgpu-gltf](https://github.com/Twinklebear/webgpu-gltf) - A glTF loader and viewer using WebGPU
