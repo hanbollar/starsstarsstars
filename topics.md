@@ -418,7 +418,7 @@
 ## code 
 
 - [laurentpayot/verticalize](https://github.com/laurentpayot/verticalize) - A pipe-like function to verticalize your JavaScript code
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 
 ## coding 
 
@@ -1369,7 +1369,7 @@
 - [nhn/tui.jsdoc-template](https://github.com/nhn/tui.jsdoc-template) - TUI JSDoc Template, Demo: https://nhnent.github.io/tui.jsdoc-template/latest/
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [samalexander/three-csg-ts](https://github.com/samalexander/three-csg-ts) - CSG library for use with THREE.js
-- [AdityaGupta1/mega-minecraft](https://github.com/AdityaGupta1/mega-minecraft) - 
+- [AdityaGupta1/mega-minecraft](https://github.com/AdityaGupta1/mega-minecraft) - Minecraft with RTX path tracing and GPU-accelerated terrain generation
 - [aserper/masto-rss](https://github.com/aserper/masto-rss) - A Mastodon bot that posts RSS updates to a Mastodon account
 - [NVIDIAGameWorks/dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) - 
 - [amborle/featmap](https://github.com/amborle/featmap) - The simple and open source user story mapping tool.
@@ -1935,7 +1935,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 
 ## software 
 
