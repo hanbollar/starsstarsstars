@@ -1281,7 +1281,7 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
@@ -1364,6 +1364,8 @@
 
 ## others 
 
+- [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [Volumetrics-io/interview-assignments](https://github.com/Volumetrics-io/interview-assignments) - a collection of actively maintained take home assignments for technical and design interviews
 - [davidshimjs/jaguarjs-jsdoc](https://github.com/davidshimjs/jaguarjs-jsdoc) - A Template of jsdoc for jaguar.js project
 - [nhn/tui.jsdoc-template](https://github.com/nhn/tui.jsdoc-template) - TUI JSDoc Template, Demo: https://nhnent.github.io/tui.jsdoc-template/latest/
@@ -1915,7 +1917,7 @@
 
 ## server 
 
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
 ## serverless 
 
