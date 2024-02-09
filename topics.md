@@ -50,6 +50,7 @@
 - [deno](#deno)
 - [design](#design)
 - [devops](#devops)
+- [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
@@ -104,9 +105,11 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [laravel](#laravel)
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -168,6 +171,7 @@
 - [spring](#spring)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [support](#support)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
@@ -365,6 +369,7 @@
 
 ## bootstrap 
 
+- [luckyshot/CRMx](https://github.com/luckyshot/CRMx) - CRMx is a super-flexible micro-CRM system for personal, freelance and small businesses. It can be customized very quickly for Customer Relationship Management, Lead Management System, Project Manageme
 - [raviriley/agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) - Jekyll version of the newest Agency Bootstrap theme, plus new features: Google Analytics, Markdown support, custom pages, and more!
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
 
@@ -570,6 +575,11 @@
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+
+## django 
+
+- [HybirdCorp/creme_crm](https://github.com/HybirdCorp/creme_crm) - Creme is a highly configurable free/open-source Customer Relationship Management designed with an entities/relationships architecture.
+- [ghrimx/StudX](https://github.com/ghrimx/StudX) - Web based School management system
 
 ## docker 
 
@@ -849,6 +859,7 @@
 
 ## google 
 
+- [antonplagemann/GoogleMonicaSync](https://github.com/antonplagemann/GoogleMonicaSync) - Script for syncing Google contacts to Monica.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -872,6 +883,9 @@
 
 ## hacktoberfest 
 
+- [luckyshot/CRMx](https://github.com/luckyshot/CRMx) - CRMx is a super-flexible micro-CRM system for personal, freelance and small businesses. It can be customized very quickly for Customer Relationship Management, Lead Management System, Project Manageme
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -1111,6 +1125,12 @@
 
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 
+## laravel 
+
+- [officelifehq/officelife](https://github.com/officelifehq/officelife) - OfficeLife is the first EmpOps platform.  It manages everything employees do in a company. From projects to holidays to 1:1s to teams.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+
 ## latex 
 
 - [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
@@ -1145,6 +1165,12 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
+## low-code 
+
+- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
 ## lua 
 
@@ -1248,6 +1274,7 @@
 
 ## mysql 
 
+- [phpcontrols/phpgrid-custom-crm](https://github.com/phpcontrols/phpgrid-custom-crm) - Custom CRM Demo - Learn to build yourself a custom CRM in PHP and MySQL, which a sales team can use to track customers through the entire sales cycle.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
@@ -1320,6 +1347,8 @@
 
 ## open-source 
 
+- [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
+- [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM – Open Source CRM Application
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -1366,6 +1395,13 @@
 
 ## others 
 
+- [rubenwouters/crm-launcher](https://github.com/rubenwouters/crm-launcher) - L5: integrate customer service via socal media (Twitter & Facebook)
+- [billerickson/Genesis-CRM](https://github.com/billerickson/Genesis-CRM) - A Customer Relationship Management theme for WordPress, built on Genesis
+- [Email-Dashboard/Email-Marketing](https://github.com/Email-Dashboard/Email-Marketing) - 📪 Super customizable Emailing - Personalized Email & Mass emailing & Email CRM & CRM in your Inbox
+- [monicahq/chandler](https://github.com/monicahq/chandler) - The upcoming brand new version of Monica. Not suitable for production use at the moment.
+- [camdroid/monica-python](https://github.com/camdroid/monica-python) - Inspired by https://github.com/monicahq/monica/, but I want to try writing it in Python.
+- [mwfogleman/monicahq.github.io](https://github.com/mwfogleman/monicahq.github.io) - Marketing site of Monica, a great friendship management system
+- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM)
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [Volumetrics-io/interview-assignments](https://github.com/Volumetrics-io/interview-assignments) - a collection of actively maintained take home assignments for technical and design interviews
@@ -1685,6 +1721,14 @@
 
 ## php 
 
+- [officelifehq/officelife](https://github.com/officelifehq/officelife) - OfficeLife is the first EmpOps platform.  It manages everything employees do in a company. From projects to holidays to 1:1s to teams.
+- [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
+- [phpcontrols/phpgrid-custom-crm](https://github.com/phpcontrols/phpgrid-custom-crm) - Custom CRM Demo - Learn to build yourself a custom CRM in PHP and MySQL, which a sales team can use to track customers through the entire sales cycle.
+- [luckyshot/CRMx](https://github.com/luckyshot/CRMx) - CRMx is a super-flexible micro-CRM system for personal, freelance and small businesses. It can be customized very quickly for Customer Relationship Management, Lead Management System, Project Manageme
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+- [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM – Open Source CRM Application
+- [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
@@ -1714,6 +1758,7 @@
 
 ## project-management 
 
+- [officelifehq/officelife](https://github.com/officelifehq/officelife) - OfficeLife is the first EmpOps platform.  It manages everything employees do in a company. From projects to holidays to 1:1s to teams.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
 ## publishing 
@@ -1729,6 +1774,7 @@
 
 ## python 
 
+- [HybirdCorp/creme_crm](https://github.com/HybirdCorp/creme_crm) - Creme is a highly configurable free/open-source Customer Relationship Management designed with an entities/relationships architecture.
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
@@ -1753,6 +1799,7 @@
 
 ## python3 
 
+- [ghrimx/StudX](https://github.com/ghrimx/StudX) - Web based School management system
 - [uvipen/ASCII-generator](https://github.com/uvipen/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 
 ## pytorch 
@@ -1963,6 +2010,10 @@
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
+## support 
+
+- [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM – Open Source CRM Application
+
 ## swift 
 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -2069,6 +2120,7 @@
 
 ## vue 
 
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -2079,6 +2131,7 @@
 
 ## vuejs 
 
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [aidenybai/lucia](https://github.com/aidenybai/lucia) - 🙋‍♀️ 3kb library for tiny web apps
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
