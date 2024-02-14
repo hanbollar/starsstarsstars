@@ -67,6 +67,7 @@
 
 ## C 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [ascent12/drm_doc](https://github.com/ascent12/drm_doc) - How to write a Linux DRM application
@@ -117,6 +118,7 @@
 
 ## C++ 
 
+- [owl-project/owl](https://github.com/owl-project/owl) - 
 - [AdityaGupta1/mega-minecraft](https://github.com/AdityaGupta1/mega-minecraft) - Minecraft with RTX path tracing and GPU-accelerated terrain generation
 - [NVIDIAGameWorks/dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) - 
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
@@ -514,6 +516,7 @@
 
 ## Markdown 
 
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
 ## Objective-C++ 
