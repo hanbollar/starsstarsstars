@@ -874,7 +874,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows, macOS and Linux
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [nytimes/three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - This is a Three.js loader module for handling OGC 3D Tiles, created by Cesium. It currently supports the two main formats, Batched 3D Model (b3dm) - based on glTF Point cloud.
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
