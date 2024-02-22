@@ -1397,6 +1397,8 @@
 
 ## others 
 
+- [FrameworkComputer/Framework-Laptop-16](https://github.com/FrameworkComputer/Framework-Laptop-16) - Documentation around the Mainboard and other key parts of Framework Laptop 16
+- [flipperdevices/flipperzero-game-engine](https://github.com/flipperdevices/flipperzero-game-engine) - 
 - [owl-project/owl](https://github.com/owl-project/owl) - 
 - [rubenwouters/crm-launcher](https://github.com/rubenwouters/crm-launcher) - L5: integrate customer service via socal media (Twitter & Facebook)
 - [billerickson/Genesis-CRM](https://github.com/billerickson/Genesis-CRM) - A Customer Relationship Management theme for WordPress, built on Genesis
