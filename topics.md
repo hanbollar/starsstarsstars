@@ -1397,6 +1397,7 @@
 
 ## others 
 
+- [adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins) - A collection of USD fileformat plugins
 - [FrameworkComputer/Framework-Laptop-16](https://github.com/FrameworkComputer/Framework-Laptop-16) - Documentation around the Mainboard and other key parts of Framework Laptop 16
 - [flipperdevices/flipperzero-game-engine](https://github.com/flipperdevices/flipperzero-game-engine) - 
 - [owl-project/owl](https://github.com/owl-project/owl) - 
