@@ -119,6 +119,7 @@
 
 ## C++ 
 
+- [adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins) - A collection of USD fileformat plugins
 - [owl-project/owl](https://github.com/owl-project/owl) - 
 - [AdityaGupta1/mega-minecraft](https://github.com/AdityaGupta1/mega-minecraft) - Minecraft with RTX path tracing and GPU-accelerated terrain generation
 - [NVIDIAGameWorks/dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) - 
