@@ -387,7 +387,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
+- [SanderMertens/bake](https://github.com/SanderMertens/bake) - Bake, A build system for building, testing and running C & C++ projects
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -483,7 +483,7 @@
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 - [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Gui, Network, Multimedia, etc)
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C++ serialization & reflection library.
-- [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
+- [SanderMertens/bake](https://github.com/SanderMertens/bake) - Bake, A build system for building, testing and running C & C++ projects
 - [lukka/run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake  (CMakePresets.json), Ninja and vcpkg on GitHub.
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [aantron/better-enums](https://github.com/aantron/better-enums) - C++ compile-time enum to string, iteration, in a single header file
@@ -759,7 +759,7 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [AntonPalmqvist/physically-based-api](https://github.com/AntonPalmqvist/physically-based-api) - A database of physically based values for CG artists.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
+- [SanderMertens/bake](https://github.com/SanderMertens/bake) - Bake, A build system for building, testing and running C & C++ projects
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -787,7 +787,7 @@
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
+- [SanderMertens/bake](https://github.com/SanderMertens/bake) - Bake, A build system for building, testing and running C & C++ projects
 - [lukka/run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake  (CMakePresets.json), Ninja and vcpkg on GitHub.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
@@ -807,7 +807,7 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
+- [SanderMertens/bake](https://github.com/SanderMertens/bake) - Bake, A build system for building, testing and running C & C++ projects
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
@@ -1397,6 +1397,7 @@
 
 ## others 
 
+- [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins) - A collection of USD fileformat plugins
 - [FrameworkComputer/Framework-Laptop-16](https://github.com/FrameworkComputer/Framework-Laptop-16) - Documentation around the Mainboard and other key parts of Framework Laptop 16
 - [flipperdevices/flipperzero-game-engine](https://github.com/flipperdevices/flipperzero-game-engine) - 
@@ -1715,7 +1716,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
-- [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
+- [SanderMertens/bake](https://github.com/SanderMertens/bake) - Bake, A build system for building, testing and running C & C++ projects
 
 ## parsing 
 
