@@ -396,6 +396,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [protectwise/troika](https://github.com/protectwise/troika) - A JavaScript framework for interactive 3D and 2D visualizations
