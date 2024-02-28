@@ -407,6 +407,7 @@
 
 ## cli 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [4lejandrito/fetchbook](https://github.com/4lejandrito/fetchbook) - Run and test your HTTP requests. Git friendly, 100% local.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -1008,6 +1009,7 @@
 
 ## javascript 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [protectwise/troika](https://github.com/protectwise/troika) - A JavaScript framework for interactive 3D and 2D visualizations
 - [adnanwahab/Simple-GPU](https://github.com/adnanwahab/Simple-GPU) - 🦒 Functional WebGPU
 - [khrome/ascii-art](https://github.com/khrome/ascii-art) - A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics
@@ -1319,6 +1321,7 @@
 
 ## nodejs 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -1339,6 +1342,7 @@
 
 ## npm 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 
 ## objective-c 
