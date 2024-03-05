@@ -196,7 +196,7 @@
 - [idaholab/moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
 - [KhronosGroup/VulkanSC-pcutil](https://github.com/KhronosGroup/VulkanSC-pcutil) - 
 - [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - Physical based rendering with Vulkan using glTF 2.0 models
-- [boost-ext/ut](https://github.com/boost-ext/ut) - UT: C++20 μ(micro)/Unit Testing Framework
+- [boost-ext/ut](https://github.com/boost-ext/ut) - C++20 μ(micro)/Unit Testing Framework
 - [jeremyong/coop](https://github.com/jeremyong/coop) - C++20 coroutines-based cooperative multitasking library
 - [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library
 - [Forceflow/cuda_voxelizer](https://github.com/Forceflow/cuda_voxelizer) - CUDA Voxelizer to convert polygon meshes into annotated voxel grids
@@ -396,6 +396,7 @@
 
 ## JavaScript 
 
+- [mattrossman/hmd-link](https://github.com/mattrossman/hmd-link) - Send links to your XR headset, hassle free.
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
