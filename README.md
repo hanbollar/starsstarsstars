@@ -27,6 +27,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -496,6 +497,10 @@
 
 - [romainguy/kotlin-math](https://github.com/romainguy/kotlin-math) - Set of Kotlin APIs to make graphics math easier to write.
 
+## LLVM 
+
+- [gthparch/CuPBoP-AMD](https://github.com/gthparch/CuPBoP-AMD) - CuPBoP-AMD is a CUDA translator that translates CUDA programs at NVVM IR level to HIP-compatible IR that can run on AMD GPUs.
+
 ## Lua 
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
@@ -713,6 +718,7 @@
 
 ## Rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [dylibso/observe-sdk](https://github.com/dylibso/observe-sdk) - Continuous runtime observablity SDKs to monitor WebAssembly code.
