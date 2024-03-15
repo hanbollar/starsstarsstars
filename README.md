@@ -64,6 +64,7 @@
 
 ## Bikeshed 
 
+- [immersive-web/webxr](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 
 ## C 
@@ -397,6 +398,7 @@
 
 ## JavaScript 
 
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [mattrossman/hmd-link](https://github.com/mattrossman/hmd-link) - Send links to your XR headset, hassle free.
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
