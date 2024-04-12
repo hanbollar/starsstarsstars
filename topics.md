@@ -1416,6 +1416,7 @@
 
 ## others 
 
+- [gkjohnson/three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 - [alaingalvan/foil](https://github.com/alaingalvan/foil) - ✨ A portfolio CMS library designed for engineers, artists, technical artists, musicians, and bloggers looking to showcase a portfolio of front-end experiments, games, art, articles, and more.
 - [Vanilla-OS/live-iso](https://github.com/Vanilla-OS/live-iso) - Vanilla OS Live ISO Builder.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
