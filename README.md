@@ -399,6 +399,7 @@
 
 ## JavaScript 
 
+- [gkjohnson/three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [mattrossman/hmd-link](https://github.com/mattrossman/hmd-link) - Send links to your XR headset, hassle free.
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
