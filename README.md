@@ -834,7 +834,7 @@
 - [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [4lejandrito/fetchbook](https://github.com/4lejandrito/fetchbook) - Run and test your HTTP requests. Git friendly, 100% local.
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
