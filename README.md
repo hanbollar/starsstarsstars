@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [westerndigitalcorporation/zenfs](https://github.com/westerndigitalcorporation/zenfs) - ZenFS is a storage backend for RocksDB that enables support for ZNS SSDs and SMR HDDs.
 - [alaingalvan/CrossShader](https://github.com/alaingalvan/CrossShader) - ⚔️ A tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
 - [adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins) - A collection of USD fileformat plugins
 - [owl-project/owl](https://github.com/owl-project/owl) - 
@@ -819,6 +820,7 @@
 
 ## TypeScript 
 
+- [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere
 - [Twinklebear/webgpu-0-to-gltf](https://github.com/Twinklebear/webgpu-0-to-gltf) - Code for my From 0 to glTF with WebGPU blog series
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
