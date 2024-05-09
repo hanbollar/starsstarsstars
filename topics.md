@@ -110,6 +110,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -1182,6 +1183,11 @@
 - [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
+## llm 
+
+- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
+
 ## low-code 
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -1479,7 +1485,6 @@
 - [dylibso/observe-sdk](https://github.com/dylibso/observe-sdk) - Continuous runtime observablity SDKs to monitor WebAssembly code.
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
 - [beeper/sdk-docs](https://github.com/beeper/sdk-docs) - Documentation for various SDKs that can be used with Beeper
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
 - [Twinklebear/webgpu-gltf](https://github.com/Twinklebear/webgpu-gltf) - A glTF loader and viewer using WebGPU
