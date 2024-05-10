@@ -1430,6 +1430,8 @@
 
 ## others 
 
+- [Igalia/wolvic](https://github.com/Igalia/wolvic) - A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
+- [atopile/spin-servo-drive](https://github.com/atopile/spin-servo-drive) - SPIN ✨ - Servos are awesome 🤩. Spin is an open-source hardware project to make it easy and cost effective to use fully-fledged BLDC servo motors 🚀
 - [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere
 - [westerndigitalcorporation/zenfs](https://github.com/westerndigitalcorporation/zenfs) - ZenFS is a storage backend for RocksDB that enables support for ZNS SSDs and SMR HDDs.
 - [Twinklebear/webgpu-0-to-gltf](https://github.com/Twinklebear/webgpu-0-to-gltf) - Code for my From 0 to glTF with WebGPU blog series
