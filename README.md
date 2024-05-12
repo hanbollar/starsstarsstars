@@ -822,6 +822,7 @@
 
 ## TypeScript 
 
+- [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere
 - [Twinklebear/webgpu-0-to-gltf](https://github.com/Twinklebear/webgpu-0-to-gltf) - Code for my From 0 to glTF with WebGPU blog series
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
