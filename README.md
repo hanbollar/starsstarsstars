@@ -717,6 +717,7 @@
 
 ## Ruby 
 
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [Email-Dashboard/Email-Marketing](https://github.com/Email-Dashboard/Email-Marketing) - 📪 Super customizable Emailing - Personalized Email & Mass emailing & Email CRM & CRM in your Inbox
 - [jekyll/github-metadata](https://github.com/jekyll/github-metadata) - Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -799,6 +800,7 @@
 
 ## Shell 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Vanilla-OS/live-iso](https://github.com/Vanilla-OS/live-iso) - Vanilla OS Live ISO Builder.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for the Magnum C++11 graphics engine
