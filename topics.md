@@ -1449,6 +1449,7 @@
 
 ## others 
 
+- [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [btelles/simjs-updated](https://github.com/btelles/simjs-updated) - A general-purpose Discrete Event Simulation library written entirely in JavaScript
 - [openmm/openmm](https://github.com/openmm/openmm) - OpenMM is a toolkit for molecular simulation using high performance GPU code.
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
