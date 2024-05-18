@@ -403,6 +403,7 @@
 
 ## JavaScript 
 
+- [pmndrs/postprocessing](https://github.com/pmndrs/postprocessing) - A post processing library for three.js.
 - [btelles/simjs-updated](https://github.com/btelles/simjs-updated) - A general-purpose Discrete Event Simulation library written entirely in JavaScript
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [gkjohnson/three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer) - Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.
