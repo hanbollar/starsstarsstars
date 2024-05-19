@@ -1661,7 +1661,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [mailhog/mhsendmail](https://github.com/mailhog/mhsendmail) - sendmail for MailHog
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
+- [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [jazzay/flecs-rs](https://github.com/jazzay/flecs-rs) - Rust bindings for the Flecs ECS library
 - [bitnami/vms](https://github.com/bitnami/vms) - Bitnami VMs
