@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [openmm/openmm](https://github.com/openmm/openmm) - OpenMM is a toolkit for molecular simulation using high performance GPU code.
 - [westerndigitalcorporation/zenfs](https://github.com/westerndigitalcorporation/zenfs) - ZenFS is a storage backend for RocksDB that enables support for ZNS SSDs and SMR HDDs.
@@ -370,6 +371,7 @@
 
 ## HTML 
 
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [lobau/lastquestion](https://github.com/lobau/lastquestion) - 
 - [aras-p/float_compr_tester](https://github.com/aras-p/float_compr_tester) - Testing various libraries/approaches for compressing floating point data
 - [jsanz/gh-pages-minima-starter](https://github.com/jsanz/gh-pages-minima-starter) - A minimal example for running Github Pages with the minima theme.
@@ -403,6 +405,8 @@
 
 ## JavaScript 
 
+- [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [pmndrs/postprocessing](https://github.com/pmndrs/postprocessing) - A post processing library for three.js.
 - [btelles/simjs-updated](https://github.com/btelles/simjs-updated) - A general-purpose Discrete Event Simulation library written entirely in JavaScript
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
@@ -748,7 +752,7 @@
 - [FrameworkComputer/inputmodule-rs](https://github.com/FrameworkComputer/inputmodule-rs) - Framework Laptop 16 Input Module SW/FW
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [attackgoat/screen-13](https://github.com/attackgoat/screen-13) - Screen 13 is an easy-to-use Vulkan rendering engine in the spirit of QBasic.
-- [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Softbuffer integrates with the raw-window-handle crate to allow writing to a window in a cross-platform way while using the very high quality dedicated window management libraries that are available i
+- [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Easily write an image to a window
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [PistonDevelopers/glfw-rs](https://github.com/PistonDevelopers/glfw-rs) - GLFW3 bindings and idiomatic wrapper for Rust.
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
@@ -832,6 +836,9 @@
 
 ## TypeScript 
 
+- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
+- [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
+- [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [BabylonJS/Spector.js](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease.
 - [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
