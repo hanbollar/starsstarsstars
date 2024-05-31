@@ -238,6 +238,7 @@
 - [icecc/icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
+- [NVIDIA/optix-toolkit](https://github.com/NVIDIA/optix-toolkit) - Set of utilities supporting workflows common in GPU raytracing applications
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
@@ -295,7 +296,6 @@
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using cmake.
 - [humbletim/setup-vulkan-sdk](https://github.com/humbletim/setup-vulkan-sdk) - github action that provisions the Vulkan SDK and configures VULKAN_SDK environment variable
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
-- [NVIDIA/optix-toolkit](https://github.com/NVIDIA/optix-toolkit) - Set of utilities supporting workflows common in GPU raytracing applications
 
 ## CSS 
 
@@ -642,6 +642,7 @@
 
 ## Python 
 
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
 - [atopile/spin-servo-drive](https://github.com/atopile/spin-servo-drive) - SPIN ✨ - Servos are awesome 🤩. Spin is an open-source hardware project to make it easy and cost effective to use fully-fledged BLDC servo motors 🚀
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
