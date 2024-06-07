@@ -256,6 +256,7 @@
 - [davidstutz/mesh-voxelization](https://github.com/davidstutz/mesh-voxelization) - C++ implementation for computing occupancy grids and signed distance functions (SDFs) from watertight meshes.
 - [christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen) - A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
+- [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
 - [elalish/manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
 - [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
@@ -608,7 +609,6 @@
 - [a8bit/EightBit-Atari-Fonts](https://github.com/a8bit/EightBit-Atari-Fonts) - Fonts generated from original bitmaps from Atari 8bit computers
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [sedaoturak/data-resources-for-materials-science](https://github.com/sedaoturak/data-resources-for-materials-science) - A list of databases, datasets and books/handbooks where you can find materials properties for machine learning applications.
-- [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
