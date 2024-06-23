@@ -1747,7 +1747,7 @@
 - [mailhog/mhsendmail](https://github.com/mailhog/mhsendmail) - sendmail for MailHog
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
-- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
 - [jazzay/flecs-rs](https://github.com/jazzay/flecs-rs) - Rust bindings for the Flecs ECS library
 - [bitnami/vms](https://github.com/bitnami/vms) - Bitnami VMs
 - [martinmoene/expected-lite](https://github.com/martinmoene/expected-lite) - expected lite - Expected objects in C++11 and later in a single-file header-only library
