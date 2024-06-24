@@ -1571,7 +1571,6 @@
 - [monicahq/chandler](https://github.com/monicahq/chandler) - The upcoming brand new version of Monica. Not suitable for production use at the moment.
 - [camdroid/monica-python](https://github.com/camdroid/monica-python) - Inspired by https://github.com/monicahq/monica/, but I want to try writing it in Python.
 - [mwfogleman/monicahq.github.io](https://github.com/mwfogleman/monicahq.github.io) - Marketing site of Monica, a great friendship management system
-- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM)
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [Volumetrics-io/interview-assignments](https://github.com/Volumetrics-io/interview-assignments) - a collection of actively maintained take home assignments for technical and design interviews
@@ -1928,6 +1927,7 @@
 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [officelifehq/officelife](https://github.com/officelifehq/officelife) - OfficeLife is the first EmpOps platform.  It manages everything employees do in a company. From projects to holidays to 1:1s to teams.
+- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
 ## publishing 
