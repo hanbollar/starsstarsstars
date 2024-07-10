@@ -1539,6 +1539,7 @@
 
 ## others 
 
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [GuiBibeau/use-supabase](https://github.com/GuiBibeau/use-supabase) - This is a simple zero dependencies package that gives you access to your Supabase client using a React hook!
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
