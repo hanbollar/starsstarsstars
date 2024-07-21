@@ -1291,7 +1291,7 @@
 ## llm 
 
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
+- [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 
 ## low-code 
 
