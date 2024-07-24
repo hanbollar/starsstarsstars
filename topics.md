@@ -1693,7 +1693,7 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [google/ldif](https://github.com/google/ldif) - 3D Shape Representation with Local Deep Implicit Functions.
 - [KhronosGroup/Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable
-- [Autodesk/Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with a USD Hydra render delegate
+- [Autodesk/Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with an OpenUSD Hydra render delegate
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [nmoehrle/libacc](https://github.com/nmoehrle/libacc) - Acceleration structure library (BVH-, KD-Tree) with basic parallel construction
 - [zeux/niagara](https://github.com/zeux/niagara) - A Vulkan renderer written from scratch on stream
