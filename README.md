@@ -185,7 +185,7 @@
 - [meganr28/null-collision-volumes-cuda](https://github.com/meganr28/null-collision-volumes-cuda) - 
 - [IwakuraRein/CIS-565-Final-VR-Raytracer](https://github.com/IwakuraRein/CIS-565-Final-VR-Raytracer) - Real-time Global Illumination with Vulkan Ray Tracing API
 - [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) - cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
-- [Autodesk/Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with a USD Hydra render delegate
+- [Autodesk/Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with an OpenUSD Hydra render delegate
 - [nmoehrle/libacc](https://github.com/nmoehrle/libacc) - Acceleration structure library (BVH-, KD-Tree) with basic parallel construction
 - [zeux/niagara](https://github.com/zeux/niagara) - A Vulkan renderer written from scratch on stream
 - [LunarG/gfxreconstruct](https://github.com/LunarG/gfxreconstruct) - Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior
