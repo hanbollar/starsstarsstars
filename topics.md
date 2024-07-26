@@ -977,6 +977,7 @@
 
 ## hacktoberfest 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
@@ -1266,6 +1267,7 @@
 
 ## linux 
 
+- [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer) - Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing rendering engine
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [tippesi/Atlas-Engine](https://github.com/tippesi/Atlas-Engine) - Cross platform toy render engine supporting physically based rendering and hardware/software ray tracing
@@ -1551,6 +1553,8 @@
 
 ## others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [facebookresearch/ocean](https://github.com/facebookresearch/ocean) - Ocean is the in-house framework for Computer Vision (CV) and Augmented Reality (AR) applications at Meta. It is platform independent and is mainly implemented in C/C++.
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [GuiBibeau/use-supabase](https://github.com/GuiBibeau/use-supabase) - This is a simple zero dependencies package that gives you access to your Supabase client using a React hook!
@@ -2031,6 +2035,7 @@
 
 ## react 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
@@ -2370,6 +2375,7 @@
 
 ## vue 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
@@ -2424,6 +2430,7 @@
 
 ## windows 
 
+- [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer) - Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing rendering engine
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [tippesi/Atlas-Engine](https://github.com/tippesi/Atlas-Engine) - Cross platform toy render engine supporting physically based rendering and hardware/software ray tracing
