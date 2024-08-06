@@ -1559,6 +1559,9 @@
 
 ## others 
 
+- [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
+- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [facebookresearch/ocean](https://github.com/facebookresearch/ocean) - Ocean is the in-house framework for Computer Vision (CV) and Augmented Reality (AR) applications at Meta. It is platform independent and is mainly implemented in C/C++.
