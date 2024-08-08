@@ -136,7 +136,6 @@
 - [atopile/spin-servo-drive](https://github.com/atopile/spin-servo-drive) - SPIN ✨ - Servos are awesome 🤩. Spin is an open-source hardware project to make it easy and cost effective to use fully-fledged BLDC servo motors 🚀
 - [westerndigitalcorporation/zenfs](https://github.com/westerndigitalcorporation/zenfs) - ZenFS is a storage backend for RocksDB that enables support for ZNS SSDs and SMR HDDs.
 - [alaingalvan/CrossShader](https://github.com/alaingalvan/CrossShader) - ⚔️ A tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [adobe/USD-Fileformat-plugins](https://github.com/adobe/USD-Fileformat-plugins) - A collection of USD fileformat plugins
 - [owl-project/owl](https://github.com/owl-project/owl) - 
 - [AdityaGupta1/mega-minecraft](https://github.com/AdityaGupta1/mega-minecraft) - Minecraft with RTX path tracing and GPU-accelerated terrain generation
@@ -779,6 +778,7 @@
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [alaingalvan/foil](https://github.com/alaingalvan/foil) - ✨ A portfolio CMS library designed for engineers, artists, technical artists, musicians, and bloggers looking to showcase a portfolio of front-end experiments, games, art, articles, and more.
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
