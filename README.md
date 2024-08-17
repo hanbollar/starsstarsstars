@@ -424,6 +424,7 @@
 
 ## JavaScript 
 
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [saharan/OimoPhysics](https://github.com/saharan/OimoPhysics) - A cross-platform 3D physics engine
