@@ -96,6 +96,7 @@
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -1066,6 +1067,10 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
+## https 
+
+- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
+
 ## image-processing 
 
 - [pmndrs/postprocessing](https://github.com/pmndrs/postprocessing) - A post processing library for three.js.
@@ -1623,7 +1628,6 @@
 - [lobau/lastquestion](https://github.com/lobau/lastquestion) - 
 - [robmcrosby/BlenderUSDZ](https://github.com/robmcrosby/BlenderUSDZ) - Simple USDZ file exporter plugin for Blender3D
 - [with-labs/popspace](https://github.com/with-labs/popspace) - Comprehensive source for PopSpace, virtual spaces for everybody
-- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
 - [AcademySoftwareFoundation/OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 - [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
