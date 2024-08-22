@@ -27,6 +27,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -166,6 +167,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
@@ -424,6 +426,35 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
+## c-plus-plus 
+
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [AdamYuan/SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) - A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
+- [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
+- [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
+- [cginternals/cpplocate](https://github.com/cginternals/cpplocate) - Cross-platform C++ library providing tools for applications to locate themselves, their data assets as well as dependent modules.
+- [cginternals/cppfs](https://github.com/cginternals/cppfs) - Cross-platform C++ file system library supporting multiple backends
+- [cginternals/cmake-init](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using cmake.
+- [cginternals/glbinding](https://github.com/cginternals/glbinding) - A C++ binding for the OpenGL API, generated using the gl.xml specification.
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
+- [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for the Magnum C++11 graphics engine
+- [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
+- [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
+- [ddemidov/amgcl](https://github.com/ddemidov/amgcl) - C++ library for solving large sparse linear systems with algebraic multigrid method
+- [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [AcademySoftwareFoundation/OpenShadingLanguage](https://github.com/AcademySoftwareFoundation/OpenShadingLanguage) - Advanced shading language for production GI renderers
+- [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
+- [Neargye/nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
+- [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
+- [Forceflow/libmorton](https://github.com/Forceflow/libmorton) - C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates
+- [AcademySoftwareFoundation/OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+- [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 
 ## chatgpt 
 
@@ -1634,7 +1665,6 @@
 - [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
-- [AdamYuan/SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) - A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
 - [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [dylibso/observe-sdk](https://github.com/dylibso/observe-sdk) - Continuous runtime observablity SDKs to monitor WebAssembly code.
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
@@ -1650,8 +1680,6 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [NVIDIAGameWorks/RTX-Path-Tracing](https://github.com/NVIDIAGameWorks/RTX-Path-Tracing) - Real-time path tracing library and sample
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
-- [cginternals/cpplocate](https://github.com/cginternals/cpplocate) - Cross-platform C++ library providing tools for applications to locate themselves, their data assets as well as dependent modules.
-- [cginternals/cmake-init](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using cmake.
 - [ingowald/optix7course](https://github.com/ingowald/optix7course) - 
 - [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper
@@ -1797,7 +1825,6 @@
 - [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus) - Async++ concurrency framework for C++11
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [MaciejWiatr/notion-export](https://github.com/MaciejWiatr/notion-export) - Simple notion utility that allows you to export notion pages programatically
-- [AcademySoftwareFoundation/OpenShadingLanguage](https://github.com/AcademySoftwareFoundation/OpenShadingLanguage) - Advanced shading language for production GI renderers
 - [PixarAnimationStudios/OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) - An Open-Source subdivision surface library.
 - [freedosproject/toycpu](https://github.com/freedosproject/toycpu) - A simulation of a Minimal instruction set computer
 - [michal-z/vimfiles](https://github.com/michal-z/vimfiles) - 
@@ -1805,7 +1832,6 @@
 - [NVIDIA/OptiX_Apps](https://github.com/NVIDIA/OptiX_Apps) - Advanced Samples for the NVIDIA OptiX 7 Ray Tracing SDK
 - [SanderMertens/colorize](https://github.com/SanderMertens/colorize) - Make your C/C++ console apps prettier!
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
-- [Forceflow/libmorton](https://github.com/Forceflow/libmorton) - C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates
 - [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [alaingalvan/MoltenVK](https://github.com/alaingalvan/MoltenVK) - MoltenVK is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan compatibility to iOS and macOS.
@@ -2105,6 +2131,12 @@
 ## redux 
 
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+
+## reinforcement-learning 
+
+- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## rest-api 
 
