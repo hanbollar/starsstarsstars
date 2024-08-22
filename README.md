@@ -92,6 +92,7 @@
 - [KhronosGroup/Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable
 - [GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
 - [zeux/volk](https://github.com/zeux/volk) - Meta loader for Vulkan API
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf) - :diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99
 - [clibequilibrium/EquilibriumEngine](https://github.com/clibequilibrium/EquilibriumEngine) - Data-oriented and multi-threaded C11 Game Engine with libraries & shaders hot-reloading.
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
@@ -211,7 +212,6 @@
 - [KhronosGroup/Vulkan-Tools](https://github.com/KhronosGroup/Vulkan-Tools) - Vulkan Development Tools
 - [milkru/vulkanizer](https://github.com/milkru/vulkanizer) - Advanced Vulkan rendering engine prototype
 - [mateeeeeee/Adria-DX12](https://github.com/mateeeeeee/Adria-DX12) - Rendergraph-based graphics engine written in C++ using DirectX12
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [libigl/libigl](https://github.com/libigl/libigl) - Simple MPL-2.0-licensed C++ geometry processing library.
 - [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
 - [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
@@ -321,6 +321,7 @@
 - [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [akosma/eBook-Template](https://github.com/akosma/eBook-Template) - Template to create PDF, ePub and Kindle books with Asciidoctor
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 
 ## Clojure 
 
@@ -835,7 +836,6 @@
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
 ## Sass 
