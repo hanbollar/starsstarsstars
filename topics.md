@@ -1604,6 +1604,7 @@
 
 ## others 
 
+- [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - An Ollama client made with GTK4 and Adwaita
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
