@@ -674,6 +674,7 @@
 
 ## Python 
 
+- [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - An Ollama client made with GTK4 and Adwaita
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
