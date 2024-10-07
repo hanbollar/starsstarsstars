@@ -213,7 +213,7 @@
 - [vsg-dev/VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Vulkan & C++17 based Scene Graph Project
 - [KhronosGroup/Vulkan-Tools](https://github.com/KhronosGroup/Vulkan-Tools) - Vulkan Development Tools
 - [milkru/vulkanizer](https://github.com/milkru/vulkanizer) - Advanced Vulkan rendering engine prototype
-- [mateeeeeee/Adria-DX12](https://github.com/mateeeeeee/Adria-DX12) - Rendergraph-based graphics engine written in C++ using DirectX12
+- [mateeeeeee/Adria-DX12](https://github.com/mateeeeeee/Adria-DX12) - Rendergraph-based DirectX 12 graphics engine
 - [libigl/libigl](https://github.com/libigl/libigl) - Simple MPL-2.0-licensed C++ geometry processing library.
 - [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
 - [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
