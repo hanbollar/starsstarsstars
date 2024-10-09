@@ -457,6 +457,7 @@
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [protectwise/troika](https://github.com/protectwise/troika) - A JavaScript framework for interactive 3D and 2D visualizations
+- [adnanwahab/hashirama](https://github.com/adnanwahab/hashirama) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
 - [khrome/ascii-art](https://github.com/khrome/ascii-art) - A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics
@@ -536,7 +537,6 @@
 ## Jupyter Notebook 
 
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [adnanwahab/hashirama](https://github.com/adnanwahab/hashirama) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a 
