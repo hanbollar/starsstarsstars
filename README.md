@@ -319,7 +319,6 @@
 ## CSS 
 
 - [mwfogleman/monicahq.github.io](https://github.com/mwfogleman/monicahq.github.io) - Marketing site of Monica, a great friendship management system
-- [adnanwahab/homelab_status_page](https://github.com/adnanwahab/homelab_status_page) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
 - [AcademySoftwareFoundation/OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
@@ -397,6 +396,7 @@
 ## HTML 
 
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
+- [adnanwahab/homelab_status_page](https://github.com/adnanwahab/homelab_status_page) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
 - [lobau/lastquestion](https://github.com/lobau/lastquestion) - 
 - [aras-p/float_compr_tester](https://github.com/aras-p/float_compr_tester) - Testing various libraries/approaches for compressing floating point data
 - [jsanz/gh-pages-minima-starter](https://github.com/jsanz/gh-pages-minima-starter) - A minimal example for running Github Pages with the minima theme.
@@ -434,6 +434,7 @@
 
 ## JavaScript 
 
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [greggman/webgpu-utils](https://github.com/greggman/webgpu-utils) - Some helpers for webgpu
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
@@ -883,6 +884,7 @@
 
 ## TypeScript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
