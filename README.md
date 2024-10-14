@@ -537,7 +537,7 @@
 ## Jupyter Notebook 
 
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [adnanwahab/homelab_status_page](https://github.com/adnanwahab/homelab_status_page) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
+- [BotParty/homelab_status_page](https://github.com/BotParty/homelab_status_page) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a 
