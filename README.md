@@ -434,6 +434,7 @@
 
 ## JavaScript 
 
+- [fcor/mx-ink-webxr](https://github.com/fcor/mx-ink-webxr) - This template uses Three.js and WebXR to provide an immersive 3D painting experience using Logitech MX-INK.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [greggman/webgpu-utils](https://github.com/greggman/webgpu-utils) - Some helpers for webgpu
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
