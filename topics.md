@@ -1624,6 +1624,7 @@
 
 ## others 
 
+- [fcor/mx-ink-webxr](https://github.com/fcor/mx-ink-webxr) - This template uses Three.js and WebXR to provide an immersive 3D painting experience using Logitech MX-INK.
 - [greggman/webgpu-utils](https://github.com/greggman/webgpu-utils) - Some helpers for webgpu
 - [nicebyte/nicemake](https://github.com/nicebyte/nicemake) - utilities to make cmake less ugly
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
