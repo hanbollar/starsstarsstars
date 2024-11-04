@@ -101,7 +101,6 @@
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
-- [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -1146,10 +1145,6 @@
 - [alaingalvan/fig-standing-desk](https://github.com/alaingalvan/fig-standing-desk) - 🗜️ A custom standing desk that you can control from the command line.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
-## ipfs 
-
-- [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
-
 ## java 
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -2189,7 +2184,7 @@
 
 - [BotParty/homelab_status_page](https://github.com/BotParty/homelab_status_page) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## ruby 
