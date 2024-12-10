@@ -1627,6 +1627,8 @@
 
 ## others 
 
+- [Orillusion/orillusion-webgpu-samples](https://github.com/Orillusion/orillusion-webgpu-samples) - Basic WebGPU samples from Orillusion
+- [lyifaxxx/WebGPU-based-Stroke-Rendering](https://github.com/lyifaxxx/WebGPU-based-Stroke-Rendering) - 
 - [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs) - Beautiful toolbox for jsdoc generated documentation - with 'typescript', `category` and `component` plugins
 - [morgan3d/misc](https://github.com/morgan3d/misc) - Miscellaneous code from throughout my career.
 - [google/UIforETW](https://github.com/google/UIforETW) - User interface for recording and managing ETW traces
