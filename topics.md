@@ -235,6 +235,7 @@
 - [nytimes/three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles) - This is a Three.js loader module for handling OGC 3D Tiles, created by Cesium. It currently supports the two main formats, Batched 3D Model (b3dm) - based on glTF Point cloud.
 - [godlikepanos/anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) - AnKi 3D Engine - Vulkan backend, modern renderer, scripting, physics and more
 - [wangerzi/3d-model-convert-to-gltf](https://github.com/wangerzi/3d-model-convert-to-gltf) - Convert 3d model (STL/IGES/STEP/OBJ/FBX) to gltf and compression
+- [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [looeee/threejs-csg](https://github.com/looeee/threejs-csg) - Constructive Solid Geometry for three.js, ES6 + BufferGeometry
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python
@@ -1934,7 +1935,6 @@
 - [oppenheimj/guppy](https://github.com/oppenheimj/guppy) - 
 - [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) - A template for Advent of Code participants using Zig
 - [nem0/OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer
-- [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 - [wwwtyro/sdf-csg](https://github.com/wwwtyro/sdf-csg) - Generate meshes from signed distance functions and constructive solid geometry operations.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [kuiwuchn/GPUMPM](https://github.com/kuiwuchn/GPUMPM) - 
