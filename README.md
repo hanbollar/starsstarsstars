@@ -577,7 +577,6 @@
 
 ## Makefile 
 
-- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
 - [jackpot51/hackinthebox](https://github.com/jackpot51/hackinthebox) - 
 - [offen/analyticstxt](https://github.com/offen/analyticstxt) - Disclose what you collect
 
@@ -866,6 +865,7 @@
 - [Vanilla-OS/live-iso](https://github.com/Vanilla-OS/live-iso) - Vanilla OS Live ISO Builder.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for the Magnum C++11 graphics engine
+- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [nielsvaneck/render-md-mermaid](https://github.com/nielsvaneck/render-md-mermaid) - GitHub Action & Utility for rendering Mermaid-JS diagrams in Markdown files for display on GitHub
