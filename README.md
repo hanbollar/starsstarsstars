@@ -566,7 +566,7 @@
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [sylefeb/tinygpus](https://github.com/sylefeb/tinygpus) - TinyGPUs, making graphics hardware for 1990s games
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -653,6 +653,7 @@
 
 ## PHP 
 
+- [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [officelifehq/officelife](https://github.com/officelifehq/officelife) - OfficeLife is the first EmpOps platform.  It manages everything employees do in a company. From projects to holidays to 1:1s to teams.
 - [rubenwouters/crm-launcher](https://github.com/rubenwouters/crm-launcher) - L5: integrate customer service via socal media (Twitter & Facebook)
