@@ -1639,6 +1639,7 @@
 
 ## others 
 
+- [mkeeter/fidget](https://github.com/mkeeter/fidget) - blazing fast implicit surface evaluation
 - [Orillusion/orillusion-webgpu-samples](https://github.com/Orillusion/orillusion-webgpu-samples) - Basic WebGPU samples from Orillusion
 - [lyifaxxx/WebGPU-based-Stroke-Rendering](https://github.com/lyifaxxx/WebGPU-based-Stroke-Rendering) - 
 - [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs) - Beautiful toolbox for jsdoc generated documentation - with 'typescript', `category` and `component` plugins
