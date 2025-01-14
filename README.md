@@ -438,6 +438,7 @@
 
 ## JavaScript 
 
+- [electronicarts/pbmpm](https://github.com/electronicarts/pbmpm) - A WebGPU implementation of Position Based MPM (PB-MPM), presented at SIGGRAPH 2024.
 - [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs) - Beautiful toolbox for jsdoc generated documentation - with 'typescript', `category` and `component` plugins
 - [fcor/mx-ink-webxr](https://github.com/fcor/mx-ink-webxr) - This template uses Three.js and WebXR to provide an immersive 3D painting experience using Logitech MX-INK.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
