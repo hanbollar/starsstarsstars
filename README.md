@@ -371,7 +371,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [Juice-Labs/Juice-Labs](https://github.com/Juice-Labs/Juice-Labs) - Juice Community Version Public Release
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -616,7 +616,7 @@
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
-- [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
+- [r-lyeh/single_file_libs](https://github.com/r-lyeh/single_file_libs) - List of single-file C/C++ libraries.
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [markdown-templates/markdown-snippets](https://github.com/markdown-templates/markdown-snippets) - :clipboard: Markdown snippets for your documentation files.
