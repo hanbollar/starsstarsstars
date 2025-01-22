@@ -2474,7 +2474,7 @@
 
 ## unity 
 
-- [zestyxyz/ads-sdk](https://github.com/zestyxyz/ads-sdk) - Monetize your spatial web app with Zesty
+- [zestyxyz/ads-sdk](https://github.com/zestyxyz/ads-sdk) - Monetize your spatial app with Zesty
 - [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
 - [cdwfs/RubyGates](https://github.com/cdwfs/RubyGates) - Puzzle game about logic gates. #MadeWithUnity #MoreDOTS
 
