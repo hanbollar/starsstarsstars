@@ -418,6 +418,7 @@
 
 ## c 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [uclouvain/openjpeg](https://github.com/uclouvain/openjpeg) - Official repository of the OpenJPEG project
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
@@ -436,6 +437,7 @@
 
 ## c-plus-plus 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [AdamYuan/SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) - A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
