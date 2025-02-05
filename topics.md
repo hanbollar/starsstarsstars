@@ -68,6 +68,7 @@
 - [emulator](#emulator)
 - [es6](#es6)
 - [express](#express)
+- [facebook](#facebook)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -776,6 +777,10 @@
 ## express 
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+
+## facebook 
+
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
 ## firebase 
 
