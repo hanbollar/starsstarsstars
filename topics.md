@@ -1652,6 +1652,7 @@
 
 ## others 
 
+- [pasteurlabs/tesseract-core](https://github.com/pasteurlabs/tesseract-core) - Autodiff-native, self-documenting software components for Simulation Intelligence. 📦
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
 - [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file. Fork From:jwenjian/visitor-badge
 - [mkeeter/fidget](https://github.com/mkeeter/fidget) - blazing fast implicit surface evaluation
