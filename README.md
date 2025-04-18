@@ -699,6 +699,7 @@
 
 ## Python 
 
+- [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [pasteurlabs/tesseract-core](https://github.com/pasteurlabs/tesseract-core) - Autodiff-native, self-documenting software components for Simulation Intelligence. 📦
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
