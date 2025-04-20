@@ -1357,6 +1357,7 @@
 
 ## linux 
 
+- [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer) - Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing renderer
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1418,6 +1419,7 @@
 
 ## macos 
 
+- [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
@@ -2610,6 +2612,7 @@
 
 ## windows 
 
+- [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer) - Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing renderer
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
