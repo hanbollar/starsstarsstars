@@ -906,6 +906,7 @@
 
 ## TypeScript 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [andykswong/mugl](https://github.com/andykswong/mugl) - WebGPU and WebGL Micro 3D Graphics Library for JavaScript and WebAssembly
 - [Orillusion/orillusion-webgpu-samples](https://github.com/Orillusion/orillusion-webgpu-samples) - Basic WebGPU samples from Orillusion
 - [lyifaxxx/WebGPU-based-Stroke-Rendering](https://github.com/lyifaxxx/WebGPU-based-Stroke-Rendering) - 
