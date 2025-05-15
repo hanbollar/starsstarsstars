@@ -1682,6 +1682,7 @@
 
 ## others 
 
+- [oculus-samples/Unity-NorthStar](https://github.com/oculus-samples/Unity-NorthStar) - North Star is a VR showcase for Unity, demonstrating cutting-edge graphics and immersive gameplay on Meta Quest devices. Join a crew of pirates on a quest for mythic treasure, and uncover the secrets 
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [pasteurlabs/tesseract-core](https://github.com/pasteurlabs/tesseract-core) - Autodiff-native, self-documenting software components for Simulation Intelligence. 📦
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
