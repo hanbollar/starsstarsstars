@@ -158,6 +158,7 @@
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [AdamYuan/SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) - A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
+- [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [EricLengyel/Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
@@ -346,7 +347,6 @@
 
 ## Cuda 
 
-- [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
 - [penn-graphics-research/claymore](https://github.com/penn-graphics-research/claymore) - 
 
 ## Dart 
