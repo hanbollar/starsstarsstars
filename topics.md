@@ -276,6 +276,7 @@
 
 ## android 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
@@ -537,7 +538,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [google/shaderc](https://github.com/google/shaderc) - A collection of tools, libraries, and tests for Vulkan shader compilation.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [iheartla/iheartla](https://github.com/iheartla/iheartla) - compilable markdown for linear algebra
 
 ## computer-science 
@@ -561,6 +562,7 @@
 
 ## cpp 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [liblava/liblava](https://github.com/liblava/liblava) - Modern and easy-to-use library for Vulkan
 - [xelatihy/yocto-gl](https://github.com/xelatihy/yocto-gl) - Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
@@ -614,6 +616,7 @@
 
 ## css 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1114,7 +1117,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [aidenybai/lucia](https://github.com/aidenybai/lucia) - 🙋‍♀️ 3kb library for tiny web apps
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -1145,6 +1148,7 @@
 
 ## html 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1173,6 +1177,7 @@
 
 ## ios 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
@@ -1197,6 +1202,7 @@
 
 ## java 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
@@ -1204,6 +1210,7 @@
 
 ## javascript 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [andykswong/mugl](https://github.com/andykswong/mugl) - WebGPU and WebGL Micro 3D Graphics Library for JavaScript and WebAssembly
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -2132,6 +2139,7 @@
 
 ## pwa 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2234,7 +2242,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2447,6 +2455,7 @@
 
 ## swift 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
