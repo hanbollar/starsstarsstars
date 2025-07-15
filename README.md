@@ -448,6 +448,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Kitware/glance](https://github.com/Kitware/glance) - Kitware Glance is an open-source web application developed at Kitware for visualizing volumetric images, molecular structures, geometric objects, and point clouds. It is part of the ParaView platform 
 - [electronicarts/pbmpm](https://github.com/electronicarts/pbmpm) - A WebGPU implementation of Position Based MPM (PB-MPM), presented at SIGGRAPH 2024.
@@ -934,7 +935,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
