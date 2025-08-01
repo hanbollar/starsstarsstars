@@ -224,6 +224,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xcode](#xcode)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -2721,6 +2722,11 @@
 ## xcode 
 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+
+## zsh 
+
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
 
 ## License
