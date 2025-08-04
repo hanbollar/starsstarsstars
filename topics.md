@@ -1728,6 +1728,7 @@
 
 ## others 
 
+- [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive 2D gravity simulator. Play with tens or hundreds of thousands of particles in real time
 - [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - 
 - [Kitware/glance](https://github.com/Kitware/glance) - Kitware Glance is an open-source web application developed at Kitware for visualizing volumetric images, molecular structures, geometric objects, and point clouds. It is part of the ParaView platform 
 - [oculus-samples/Unity-NorthStar](https://github.com/oculus-samples/Unity-NorthStar) - North Star is a VR showcase for Unity, demonstrating cutting-edge graphics and immersive gameplay on Meta Quest devices. Join a crew of pirates on a quest for mythic treasure, and uncover the secrets 
