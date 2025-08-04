@@ -130,6 +130,7 @@
 
 ## C++ 
 
+- [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive 2D gravity simulator. Play with tens or hundreds of thousands of particles in real time
 - [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - 
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [google/UIforETW](https://github.com/google/UIforETW) - User interface for recording and managing ETW traces
