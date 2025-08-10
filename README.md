@@ -48,7 +48,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Sass](#sass)
-- [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -880,10 +879,6 @@
 ## Sass 
 
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
-
-## ShaderLab 
-
-- [cdwfs/RubyGates](https://github.com/cdwfs/RubyGates) - Puzzle game about logic gates. #MadeWithUnity #MoreDOTS
 
 ## Shell 
 
