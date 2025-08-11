@@ -180,7 +180,6 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
 - [aras-p/dod-playground](https://github.com/aras-p/dod-playground) - Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018
-- [cdwfs/img2ktx](https://github.com/cdwfs/img2ktx) - Converts common image formats (PNG, JPG, etc.) to GPU-native compressed (BCn, ETC, ASTC) in KTX containers.
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 - [mcneel/opennurbs](https://github.com/mcneel/opennurbs) - OpenNURBS libraries allow anyone to read and write the 3DM file format without the need for Rhino.
 - [GPUOpen-LibrariesAndSDKs/RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) - Render Pipeline Shaders SDK
@@ -376,7 +375,7 @@
 
 ## Go 
 
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models
