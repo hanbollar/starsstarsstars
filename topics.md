@@ -530,6 +530,7 @@
 
 ## cms 
 
+- [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.
 - [alaingalvan/foil](https://github.com/alaingalvan/foil) - ✨ A portfolio CMS library designed for engineers, artists, technical artists, musicians, and bloggers looking to showcase a portfolio of front-end experiments, games, art, articles, and more.
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1104,6 +1105,7 @@
 
 ## hacktoberfest 
 
+- [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
@@ -1495,6 +1497,7 @@
 
 ## markdown 
 
+- [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
@@ -1666,6 +1669,7 @@
 
 ## open-source 
 
+- [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
@@ -1730,6 +1734,7 @@
 
 ## others 
 
+- [vlad17/timefly](https://github.com/vlad17/timefly) - All I wanna do is forget about my past, and / Store a little time log, really nothing too drastic
 - [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive 2D gravity simulator. Play with tens or hundreds of thousands of particles in real time
 - [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - 
 - [Kitware/glance](https://github.com/Kitware/glance) - Kitware Glance is an open-source web application developed at Kitware for visualizing volumetric images, molecular structures, geometric objects, and point clouds. It is part of the ParaView platform 
@@ -2512,6 +2517,7 @@
 
 ## tailwindcss 
 
+- [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [heyverse/hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -2558,6 +2564,7 @@
 
 ## typescript 
 
+- [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [andykswong/mugl](https://github.com/andykswong/mugl) - WebGPU and WebGL Micro 3D Graphics Library for JavaScript and WebAssembly
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
