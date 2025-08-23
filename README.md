@@ -502,7 +502,7 @@
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [crubier/react-graph-vis](https://github.com/crubier/react-graph-vis) - A react component to render nice graphs using vis.js
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [PrincessGod/objTo3d-tiles](https://github.com/PrincessGod/objTo3d-tiles) - Convert obj model file to 3d tiles
 - [ebeaufay/threedtiles](https://github.com/ebeaufay/threedtiles) - 3DTiles viewer for three.js
 - [renyuanz/leonids](https://github.com/renyuanz/leonids) - A simple, fixed sidebar two columns Gatsby.js blog starter.
