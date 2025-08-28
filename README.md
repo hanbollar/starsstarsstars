@@ -135,7 +135,7 @@
 ## C++ 
 
 - [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive 2D gravity simulator. Play with tens or hundreds of thousands of particles in real time
-- [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - 
+- [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - C++ library implementing the Signed Heat Method for computing robust signed distance fields (SDFs) to triangle meshes, polygon meshes, and point clouds in 3D.
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [google/UIforETW](https://github.com/google/UIforETW) - User interface for recording and managing ETW traces
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
@@ -158,7 +158,7 @@
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [AdamYuan/SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) - A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
-- [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
+- [MrNeRF/gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - LichtFeld Studio: Where reality and the digital world blend.
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [EricLengyel/Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
