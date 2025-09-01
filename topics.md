@@ -1317,7 +1317,7 @@
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [bitbrain/jekyll-dash](https://github.com/bitbrain/jekyll-dash) - 🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
-- [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
+- [codebygina/mundana-theme-jekyll](https://github.com/codebygina/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 - [raviriley/agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) - Jekyll version of the newest Agency Bootstrap theme, plus new features: Google Analytics, Markdown support, custom pages, and more!
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
@@ -1335,7 +1335,7 @@
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [bitbrain/jekyll-dash](https://github.com/bitbrain/jekyll-dash) - 🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
-- [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
+- [codebygina/mundana-theme-jekyll](https://github.com/codebygina/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 - [raviriley/agency-jekyll-theme](https://github.com/raviriley/agency-jekyll-theme) - Jekyll version of the newest Agency Bootstrap theme, plus new features: Google Analytics, Markdown support, custom pages, and more!
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
