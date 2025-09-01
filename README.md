@@ -329,7 +329,7 @@
 - [mwfogleman/monicahq.github.io](https://github.com/mwfogleman/monicahq.github.io) - Marketing site of Monica, a great friendship management system
 - [AcademySoftwareFoundation/OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
-- [wowthemesnet/mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
+- [codebygina/mundana-theme-jekyll](https://github.com/codebygina/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [akosma/eBook-Template](https://github.com/akosma/eBook-Template) - Template to create PDF, ePub and Kindle books with Asciidoctor
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
