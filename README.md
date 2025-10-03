@@ -416,7 +416,6 @@
 
 ## HTML 
 
-- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file. Fork From:jwenjian/visitor-badge
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [BotParty/homelab_status_page](https://github.com/BotParty/homelab_status_page) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
@@ -467,7 +466,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [cables-gl/cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 - [saharan/OimoPhysics](https://github.com/saharan/OimoPhysics) - A cross-platform 3D physics engine
-- [zestyxyz/zesty-ads-sdk-web](https://github.com/zestyxyz/zesty-ads-sdk-web) - Monetize your spatial app with Zesty
+- [zestyxyz/zesty-ads-sdk-web](https://github.com/zestyxyz/zesty-ads-sdk-web) - Supercharge your spatial app
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -708,6 +707,7 @@
 
 - [vlad17/timefly](https://github.com/vlad17/timefly) - All I wanna do is forget about my past, and / Store a little time log, really nothing too drastic
 - [pasteurlabs/tesseract-streamlit](https://github.com/pasteurlabs/tesseract-streamlit) - Generate Streamlit apps from Tesseracts, automagically.
+- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [pasteurlabs/tesseract-core](https://github.com/pasteurlabs/tesseract-core) - Universal, autodiff-native software components for Simulation Intelligence. 📦
