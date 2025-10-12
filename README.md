@@ -235,7 +235,7 @@
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl) - A Compositional Numeric Library for C++
-- [martinmoene/expected-lite](https://github.com/martinmoene/expected-lite) - expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
+- [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite) - expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
 - [jll63/yomm2](https://github.com/jll63/yomm2) - Fast, orthogonal, open multi-methods. Solve the Expression Problem in C++17.
 - [jheruty/hscpp](https://github.com/jheruty/hscpp) - Runtime compiled C++ with hot-swapped classes.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
