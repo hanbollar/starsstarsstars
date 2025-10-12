@@ -1982,7 +1982,7 @@
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
 - [jazzay/flecs-rs](https://github.com/jazzay/flecs-rs) - Rust bindings for the Flecs ECS library
 - [bitnami/vms](https://github.com/bitnami/vms) - Bitnami VMs
-- [martinmoene/expected-lite](https://github.com/martinmoene/expected-lite) - expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
+- [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite) - expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
 - [jheruty/hscpp](https://github.com/jheruty/hscpp) - Runtime compiled C++ with hot-swapped classes.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
