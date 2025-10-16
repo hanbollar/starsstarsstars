@@ -240,6 +240,7 @@
 - [BabylonJS/Spector.js](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease.
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [attackgoat/screen-13](https://github.com/attackgoat/screen-13) - Screen 13 is an easy-to-use Vulkan rendering engine in the spirit of QBasic.
+- [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [walsvid/Pixel2MeshPlusPlus](https://github.com/walsvid/Pixel2MeshPlusPlus) - [ICCV2019] Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
@@ -1852,7 +1853,6 @@
 - [NVIDIA-RTX/RTXPT](https://github.com/NVIDIA-RTX/RTXPT) - Real-time path tracing library and sample
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [ingowald/optix7course](https://github.com/ingowald/optix7course) - 
-- [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper
 - [PistonDevelopers/glfw-rs](https://github.com/PistonDevelopers/glfw-rs) - GLFW3 bindings and idiomatic wrapper for Rust.
 - [nmwsharp/geometry-central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes.
