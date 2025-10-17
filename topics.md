@@ -2021,7 +2021,7 @@
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 - [matiascodesal/awesome-openusd](https://github.com/matiascodesal/awesome-openusd) - A curated list of awesome Universal Scene Description (OpenUSD) resources and projects
-- [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
+- [matiadev/joy-of-code](https://github.com/matiadev/joy-of-code) - 🌸 Joy of Code is a digital garden growing curious minds
 - [GPUOpen-Effects/FidelityFX-FSR2](https://github.com/GPUOpen-Effects/FidelityFX-FSR2) - FidelityFX Super Resolution 2
 - [cheind/sdftoolbox](https://github.com/cheind/sdftoolbox) - Vectorized Python methods for creating, manipulating and tessellating signed distance fields.
 - [NVIDIA/vgpu-device-manager](https://github.com/NVIDIA/vgpu-device-manager) - NVIDIA vGPU Device Manager manages NVIDIA vGPU devices on top of Kubernetes
