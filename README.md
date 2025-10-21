@@ -33,7 +33,6 @@
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Objective-C++](#objective-c++)
@@ -588,10 +587,6 @@
 - [frabjous/knap](https://github.com/frabjous/knap) - Neovim plugin for creating live-updating-as-you-type previews of LaTeX, markdown, and other files in the viewer of your choice.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 
-## MDX 
-
-- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
-
 ## Makefile 
 
 - [jackpot51/hackinthebox](https://github.com/jackpot51/hackinthebox) - 
@@ -1022,6 +1017,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [lukka/run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake  (CMakePresets.json), Ninja and vcpkg on GitHub.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
