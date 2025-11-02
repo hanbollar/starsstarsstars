@@ -89,7 +89,7 @@
 - [nvpro-samples/optix_advanced_samples](https://github.com/nvpro-samples/optix_advanced_samples) - Set of advanced samples for the NVIDIA OptiX Ray Tracing Engine.
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [KhronosGroup/SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - SPIRV-Reflect is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [KhronosGroup/Vulkan-ExtensionLayer](https://github.com/KhronosGroup/Vulkan-ExtensionLayer) - Layer providing Vulkan features when native support is unavailable
 - [GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
 - [zeux/volk](https://github.com/zeux/volk) - Meta loader for Vulkan API
