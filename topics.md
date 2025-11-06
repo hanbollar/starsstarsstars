@@ -1161,7 +1161,6 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [aidenybai/lucia](https://github.com/aidenybai/lucia) - 🙋‍♀️ 3kb library for tiny web apps
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
@@ -1748,6 +1747,7 @@
 
 ## others 
 
+- [mandyxmq/TraceDisks](https://github.com/mandyxmq/TraceDisks) - 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [vlad17/timefly](https://github.com/vlad17/timefly) - All I wanna do is forget about my past, and / Store a little time log, really nothing too drastic
 - [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive 2D gravity simulator. Play with tens or hundreds of thousands of particles in real time
@@ -2521,7 +2521,6 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
-- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
 - [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -2532,7 +2531,6 @@
 ## swiftui 
 
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
-- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 
 ## symfony 
 
