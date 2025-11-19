@@ -699,7 +699,6 @@
 
 ## Python 
 
-- [peterdsharpe/torchmesh](https://github.com/peterdsharpe/torchmesh) - GPU-Accelerated Mesh Processing for Physical Simulation and Scientific Visualization in Any Dimension
 - [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [vlad17/timefly](https://github.com/vlad17/timefly) - All I wanna do is forget about my past, and / Store a little time log, really nothing too drastic
