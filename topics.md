@@ -234,7 +234,6 @@
 
 ## 3d 
 
-- [peterdsharpe/torchmesh](https://github.com/peterdsharpe/torchmesh) - GPU-Accelerated Mesh Processing for Physical Simulation and Scientific Visualization in Any Dimension
 - [andykswong/mugl](https://github.com/andykswong/mugl) - WebGPU and WebGL Micro 3D Graphics Library for JavaScript and WebAssembly
 - [googlevr/blocks](https://github.com/googlevr/blocks) - An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
@@ -2249,7 +2248,6 @@
 
 ## pytorch 
 
-- [peterdsharpe/torchmesh](https://github.com/peterdsharpe/torchmesh) - GPU-Accelerated Mesh Processing for Physical Simulation and Scientific Visualization in Any Dimension
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [autonomousvision/sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
 - [hzxie/GRNet](https://github.com/hzxie/GRNet) - The official implementation of "GRNet: Gridding Residual Network for Dense Point Cloud Completion".  (ECCV 2020)
