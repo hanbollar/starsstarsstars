@@ -703,7 +703,7 @@
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [vlad17/timefly](https://github.com/vlad17/timefly) - All I wanna do is forget about my past, and / Store a little time log, really nothing too drastic
 - [pasteurlabs/tesseract-streamlit](https://github.com/pasteurlabs/tesseract-streamlit) - Generate Streamlit apps from Tesseracts, automagically.
-- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
+- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that powers the world's most comprehensive electricity data platform
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [pasteurlabs/tesseract-core](https://github.com/pasteurlabs/tesseract-core) - Universal, autodiff-native software components for Simulation Intelligence. 📦
