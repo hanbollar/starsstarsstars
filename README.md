@@ -218,7 +218,7 @@
 - [vsg-dev/VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Vulkan & C++17 based Scene Graph Project
 - [KhronosGroup/Vulkan-Tools](https://github.com/KhronosGroup/Vulkan-Tools) - Vulkan Development Tools
 - [milkru/vulkanizer](https://github.com/milkru/vulkanizer) - Advanced Vulkan rendering engine prototype
-- [mateeeeeee/Adria](https://github.com/mateeeeeee/Adria) - Rendergraph-based DirectX12 graphics engine
+- [mateeeeeee/Adria](https://github.com/mateeeeeee/Adria) - Rendergraph-based graphics engine
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [libigl/libigl](https://github.com/libigl/libigl) - Simple MPL-2.0-licensed C++ geometry processing library.
 - [andrewwillmott/distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) - A library of distance and occlusion generation routines
