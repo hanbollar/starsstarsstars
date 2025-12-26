@@ -778,7 +778,6 @@
 - [hansen7/OcCo](https://github.com/hansen7/OcCo) - [ICCV '21] "Unsupervised Point Cloud Pre-training via Occlusion Completion"
 - [cheind/sdftoolbox](https://github.com/cheind/sdftoolbox) - Vectorized Python methods for creating, manipulating and tessellating signed distance fields.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [GAP-LAB-CUHK-SZ/Total3DUnderstanding](https://github.com/GAP-LAB-CUHK-SZ/Total3DUnderstanding) - Implementation of CVPR'20 Oral: Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image
 - [xingyuansun/pix3d](https://github.com/xingyuansun/pix3d) - Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling
 - [slynch8/10x](https://github.com/slynch8/10x) - 10x IDE/Editor
