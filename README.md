@@ -870,6 +870,7 @@
 
 ## SCSS 
 
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [bitbrain/jekyll-dash](https://github.com/bitbrain/jekyll-dash) - 🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.
 - [zerostaticthemes/jekyll-serif-theme](https://github.com/zerostaticthemes/jekyll-serif-theme) - Serif is a multi page business theme for Jekyll.
@@ -909,7 +910,6 @@
 
 ## TypeScript 
 
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
