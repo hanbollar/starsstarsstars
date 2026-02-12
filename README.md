@@ -324,7 +324,7 @@
 ## CSS 
 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
-- [mwfogleman/monicahq.github.io](https://github.com/mwfogleman/monicahq.github.io) - Marketing site of Monica, a great friendship management system
+- [tasshin/monicahq.github.io](https://github.com/tasshin/monicahq.github.io) - Marketing site of Monica, a great friendship management system
 - [AcademySoftwareFoundation/OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [codebygina/mundana-theme-jekyll](https://github.com/codebygina/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
