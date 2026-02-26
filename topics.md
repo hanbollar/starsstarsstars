@@ -274,6 +274,7 @@
 
 ## ai 
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1019,7 +1020,7 @@
 
 ## gis 
 
-- [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Renderer for 3D Tiles in Javascript using three.js
+- [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Renderer for 3D Tiles in Javascript using three.js, babylonjs, and r3f
 
 ## git 
 
@@ -1595,6 +1596,7 @@
 
 ## monitoring 
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1778,6 +1780,7 @@
 
 ## osint 
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 
 ## others 
@@ -1785,7 +1788,7 @@
 - [mandyxmq/TraceDisks](https://github.com/mandyxmq/TraceDisks) - 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [vlad17/timefly](https://github.com/vlad17/timefly) - All I wanna do is forget about my past, and / Store a little time log, really nothing too drastic
-- [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive 2D gravity simulator. Play with tens or hundreds of thousands of particles in real time
+- [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive particle physics engine. Play with tens or hundreds of thousands of particles in real time
 - [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - C++ library implementing the Signed Heat Method for computing robust signed distance fields (SDFs) to triangle meshes, polygon meshes, and point clouds in 3D.
 - [Kitware/glance](https://github.com/Kitware/glance) - Kitware Glance is an open-source web application developed at Kitware for visualizing volumetric images, molecular structures, geometric objects, and point clouds. It is part of the ParaView platform 
 - [oculus-samples/Unity-NorthStar](https://github.com/oculus-samples/Unity-NorthStar) - North Star is a VR showcase for Unity, demonstrating cutting-edge graphics and immersive gameplay on Meta Quest devices. Join a crew of pirates on a quest for mythic treasure, and uncover the secrets 
@@ -2740,7 +2743,7 @@
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
-- [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Renderer for 3D Tiles in Javascript using three.js
+- [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS) - Renderer for 3D Tiles in Javascript using three.js, babylonjs, and r3f
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
