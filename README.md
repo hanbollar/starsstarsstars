@@ -777,7 +777,7 @@
 - [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [usd-wg/assets](https://github.com/usd-wg/assets) - USD Working Group assets
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [hansen7/OcCo](https://github.com/hansen7/OcCo) - [ICCV '21] "Unsupervised Point Cloud Pre-training via Occlusion Completion"
 - [cheind/sdftoolbox](https://github.com/cheind/sdftoolbox) - Vectorized Python methods for creating, manipulating and tessellating signed distance fields.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
