@@ -249,7 +249,7 @@
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [BabylonJS/Spector.js](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease.
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
-- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automatic resource management and execution
+- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automated resource management and execution
 - [nv-tlabs/LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [walsvid/Pixel2MeshPlusPlus](https://github.com/walsvid/Pixel2MeshPlusPlus) - [ICCV2019] Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation.
@@ -942,7 +942,7 @@
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
-- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automatic resource management and execution
+- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automated resource management and execution
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware.
 - [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
@@ -968,7 +968,7 @@
 - [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
-- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automatic resource management and execution
+- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automated resource management and execution
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [tippesi/Atlas-Engine](https://github.com/tippesi/Atlas-Engine) - Cross platform toy render engine supporting physically based rendering and hardware/software ray tracing
 - [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware.
@@ -994,7 +994,7 @@
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [phisko/kengine](https://github.com/phisko/kengine) - Game engine with an Entity-Component-System (ECS) architecture. Focus on ease-of-use, runtime extensibility and compile-time type safety.
-- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automatic resource management and execution
+- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automated resource management and execution
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [mosra/magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) - Bootstrap projects for the Magnum C++11 graphics engine
@@ -1904,7 +1904,7 @@
 - [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla) - Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 - [m-schuetz/CudaPlayground](https://github.com/m-schuetz/CudaPlayground) - 
 - [toomuchvoltage/shadertoy-utils](https://github.com/toomuchvoltage/shadertoy-utils) - One-click utilities that turn images, sounds and even voxels into shadertoy code! :)
-- [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
+- [zu1k/book-searcher](https://github.com/zu1k/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
 - [iOrange/rtxON](https://github.com/iOrange/rtxON) - Simple Vulkan raytracing tutorials
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [lzqsd/OptixRenderer](https://github.com/lzqsd/OptixRenderer) - An optix-based GPU path tracer
@@ -2437,7 +2437,7 @@
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [plasma-umass/cwhy](https://github.com/plasma-umass/cwhy) - "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
-- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automatic resource management and execution
+- [attackgoat/vk-graph](https://github.com/attackgoat/vk-graph) - High-performance Vulkan driver with automated resource management and execution
 - [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) - Easily write an image to a window
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
