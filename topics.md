@@ -1785,6 +1785,7 @@
 
 ## others 
 
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [estherlin/learning-lens-blur-fields](https://github.com/estherlin/learning-lens-blur-fields) - Code for Learning Lens Blur Fields, TPAMI 2025
 - [mandyxmq/TraceDisks](https://github.com/mandyxmq/TraceDisks) - 
