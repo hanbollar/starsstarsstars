@@ -175,6 +175,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -1476,6 +1477,7 @@
 
 ## llm 
 
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [opencx-labs/copilot](https://github.com/opencx-labs/copilot) - 
 
@@ -1577,6 +1579,7 @@
 
 ## mcp 
 
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
@@ -1789,7 +1792,6 @@
 
 ## others 
 
-- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [estherlin/learning-lens-blur-fields](https://github.com/estherlin/learning-lens-blur-fields) - Code for Learning Lens Blur Fields, TPAMI 2025
 - [mandyxmq/TraceDisks](https://github.com/mandyxmq/TraceDisks) - 
@@ -2241,6 +2243,10 @@
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
+## prompt-engineering 
+
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
+
 ## publishing 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2256,6 +2262,7 @@
 
 ## python 
 
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) - Stop prompting. Start specifying.
 - [Emmi-AI/noether](https://github.com/Emmi-AI/noether) - Deep-learning framework for Engineering AI. Built on transformer building blocks, it delivers the full engineering stack, allowing teams to build,  train, and operate industrial simulation models acro
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
