@@ -253,7 +253,6 @@
 - [Forceflow/libmorton](https://github.com/Forceflow/libmorton) - C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates
 - [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
 - [alaingalvan/raw-vulkan](https://github.com/alaingalvan/raw-vulkan) - 🔥 Experiments building Vulkan applications, libraries, and abstractions.
-- [alaingalvan/renderdoc](https://github.com/alaingalvan/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [alaingalvan/CrossWindow-Demos](https://github.com/alaingalvan/CrossWindow-Demos) - 🥪 Examples of how to use CrossWindow for things like rendering graphics, listening to events, etc.
 - [alaingalvan/CrossWindow-Graphics](https://github.com/alaingalvan/CrossWindow-Graphics) - A header only library to simplify creating 🌋 Vulkan / ⚪ OpenGL / 🌐 WebGL / ❎DirectX / 🤖 Metal data structures with CrossWindow.
 - [alaingalvan/CrossWindow](https://github.com/alaingalvan/CrossWindow) - 💻📱 A cross platform system abstraction library written in C++ for managing windows and performing OS tasks.
@@ -599,7 +598,6 @@
 
 ## Objective-C++ 
 
-- [alaingalvan/MoltenVK](https://github.com/alaingalvan/MoltenVK) - MoltenVK is an implementation of the high-performance, industry-standard Vulkan graphics and compute API, that runs on Apple's Metal graphics framework, bringing Vulkan compatibility to iOS and macOS.
 - [KhronosGroup/MoltenVK](https://github.com/KhronosGroup/MoltenVK) - MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan ap
 
 ## OpenSCAD 
@@ -636,7 +634,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
