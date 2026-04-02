@@ -304,7 +304,7 @@
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [MatheusFaria/cuda_opengl_cmake](https://github.com/MatheusFaria/cuda_opengl_cmake) - This project shows how to integrate CUDA and OpenGL. Generating the Makefile with Cmake
 - [Forceflow/cuda2GLcore](https://github.com/Forceflow/cuda2GLcore) - Implementation of Cuda to OpenGL rendering
-- [CubbyFlow/CubbyFlow](https://github.com/CubbyFlow/CubbyFlow) - Voxel-based fluid simulation engine for computer games
+- [utilForever/CubbyFlow](https://github.com/utilForever/CubbyFlow) - Voxel-based fluid simulation engine for computer games
 - [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 - [canUDigIt/opengl](https://github.com/canUDigIt/opengl) - 
 - [gallickgunner/ImGui-Addons](https://github.com/gallickgunner/ImGui-Addons) - Cross Platform File Dialog for Dear-ImGui
