@@ -656,7 +656,7 @@
 - [yumcyaWiz/photon_mapping](https://github.com/yumcyaWiz/photon_mapping) - minimal but extensible header only implementation of photon mapping in C++
 - [iheartla/iheartla](https://github.com/iheartla/iheartla) - compilable markdown for linear algebra
 - [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
-- [CubbyFlow/CubbyFlow](https://github.com/CubbyFlow/CubbyFlow) - Voxel-based fluid simulation engine for computer games
+- [utilForever/CubbyFlow](https://github.com/utilForever/CubbyFlow) - Voxel-based fluid simulation engine for computer games
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - [ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl
 
 ## cryptography 
@@ -1211,7 +1211,6 @@
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
