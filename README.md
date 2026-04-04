@@ -327,7 +327,6 @@
 
 ## CSS 
 
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [tasshin/monicahq.github.io](https://github.com/tasshin/monicahq.github.io) - Marketing site of Monica, a great friendship management system
 - [AcademySoftwareFoundation/OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
@@ -451,6 +450,7 @@
 
 ## JavaScript 
 
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Kitware/glance](https://github.com/Kitware/glance) - Kitware Glance is an open-source web application developed at Kitware for visualizing volumetric images, molecular structures, geometric objects, and point clouds. It is part of the ParaView platform 
