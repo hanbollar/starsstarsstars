@@ -557,6 +557,7 @@
 
 ## Jupyter Notebook 
 
+- [tum-pbs/P3D](https://github.com/tum-pbs/P3D) - P3D
 - [mandyxmq/TraceDisks](https://github.com/mandyxmq/TraceDisks) - 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
