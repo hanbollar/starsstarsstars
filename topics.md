@@ -2756,7 +2756,7 @@
 
 ## unity 
 
-- [zestyxyz/zesty-ads-sdk-web](https://github.com/zestyxyz/zesty-ads-sdk-web) - Supercharge your spatial web app
+- [borellion/sdk](https://github.com/borellion/sdk) - Use this SDK to monetize your spatial app and join the Borellion network
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 
 ## unreal-engine 
