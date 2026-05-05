@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -279,6 +280,10 @@
 ## agent 
 
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
+
+## agents 
+
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 
 ## ai 
 
@@ -744,6 +749,7 @@
 ## deep-learning 
 
 - [Emmi-AI/noether](https://github.com/Emmi-AI/noether) - Deep-learning framework for Engineering AI. Built on transformer building blocks, it delivers the full engineering stack, allowing teams to build,  train, and operate industrial simulation models acro
+- [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) - cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [ErlerPhilipp/points2surf](https://github.com/ErlerPhilipp/points2surf) - Learning Implicit Surfaces from Point Clouds (ECCV 2020)
@@ -1987,7 +1993,6 @@
 - [vivienldy/CUDA-Kernel-Node-Editor-For-Houdini](https://github.com/vivienldy/CUDA-Kernel-Node-Editor-For-Houdini) - 
 - [meganr28/null-collision-volumes-cuda](https://github.com/meganr28/null-collision-volumes-cuda) - 
 - [IwakuraRein/CIS-565-Final-VR-Raytracer](https://github.com/IwakuraRein/CIS-565-Final-VR-Raytracer) - Real-time Global Illumination with Vulkan Ray Tracing API
-- [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) - cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [google/ldif](https://github.com/google/ldif) - 3D Shape Representation with Local Deep Implicit Functions.
