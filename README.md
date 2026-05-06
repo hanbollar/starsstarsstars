@@ -553,6 +553,7 @@
 ## Jupyter Notebook 
 
 - [tum-pbs/P3D](https://github.com/tum-pbs/P3D) - P3D
+- [estherlin/learning-lens-blur-fields](https://github.com/estherlin/learning-lens-blur-fields) - Code for Learning Lens Blur Fields, TPAMI 2025
 - [mandyxmq/TraceDisks](https://github.com/mandyxmq/TraceDisks) - 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [ktynski/Marketing_Automations_Notebooks_With_GPT](https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT) - A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations
@@ -609,7 +610,6 @@
 
 ## Others 
 
-- [estherlin/learning-lens-blur-fields](https://github.com/estherlin/learning-lens-blur-fields) - Code for Learning Lens Blur Fields, TPAMI 2025
 - [stevinz/awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev) - Awesome list of resources for Game Engine Development.
 - [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
