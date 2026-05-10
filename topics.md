@@ -1839,6 +1839,7 @@
 
 ## others 
 
+- [AN-Best/braid](https://github.com/AN-Best/braid) - 
 - [tum-pbs/P3D](https://github.com/tum-pbs/P3D) - P3D
 - [estherlin/learning-lens-blur-fields](https://github.com/estherlin/learning-lens-blur-fields) - Code for Learning Lens Blur Fields, TPAMI 2025
 - [mandyxmq/TraceDisks](https://github.com/mandyxmq/TraceDisks) - 
