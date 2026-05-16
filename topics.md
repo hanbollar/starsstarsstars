@@ -2754,7 +2754,7 @@
 
 ## unity 
 
-- [borellion/sdk](https://github.com/borellion/sdk) - Use this SDK to monetize your spatial app and join the Borellion network
+- [borellion/sdk](https://github.com/borellion/sdk) - Monetize your 3D experience by plugging into the Borellion Audience Network
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 
 ## unreal-engine 
