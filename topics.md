@@ -749,7 +749,7 @@
 ## deep-learning 
 
 - [Emmi-AI/noether](https://github.com/Emmi-AI/noether) - Deep-Learning framework for Engineering AI. Built on transformer building blocks, it delivers the full engineering stack, allowing teams to build,  train, and operate industrial simulation models acro
-- [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) - cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
+- [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) - cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [ErlerPhilipp/points2surf](https://github.com/ErlerPhilipp/points2surf) - Learning Implicit Surfaces from Point Clouds (ECCV 2020)
