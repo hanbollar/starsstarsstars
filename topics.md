@@ -1351,7 +1351,7 @@
 - [protectwise/troika](https://github.com/protectwise/troika) - A JavaScript framework for interactive 3D and 2D visualizations
 - [khrome/ascii-art](https://github.com/khrome/ascii-art) - A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1731,7 +1731,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
