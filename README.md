@@ -958,7 +958,7 @@
 - [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 - [samalexander/three-csg-ts](https://github.com/samalexander/three-csg-ts) - CSG library for use with THREE.js
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [amborle/featmap](https://github.com/amborle/featmap) - The simple and open source user story mapping tool.
 - [with-labs/popspace](https://github.com/with-labs/popspace) - Comprehensive source for PopSpace, virtual spaces for everybody
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
