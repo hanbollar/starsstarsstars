@@ -1910,7 +1910,7 @@
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [dimforge/rapier.js](https://github.com/dimforge/rapier.js) - Official JavaScript bindings for the Rapier physics engine.
+- [dimforge/rapier.js](https://github.com/dimforge/rapier.js) - Official JavaScript bindings for the Rapier physics engine ⚠️ MIGRATED TO https://github.com/dimforge/rapier/tree/master/typescript ⚠️
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [gthparch/CuPBoP-AMD](https://github.com/gthparch/CuPBoP-AMD) - CuPBoP-AMD is a CUDA translator that translates CUDA programs at NVVM IR level to HIP-compatible IR that can run on AMD GPUs.
 - [mattrossman/hmd-link](https://github.com/mattrossman/hmd-link) - Send links to your XR headset, hassle free.
