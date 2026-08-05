@@ -409,7 +409,7 @@
 - [aras-p/float_compr_tester](https://github.com/aras-p/float_compr_tester) - Testing various libraries/approaches for compressing floating point data
 - [jsanz/gh-pages-minima-starter](https://github.com/jsanz/gh-pages-minima-starter) - A minimal example for running Github Pages with the minima theme.
 - [dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) - a medium inspired jekyll theme
-- [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
+- [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C11 tiny glTF 2.0 library
 - [KhronosGroup/VulkanSC-Registry](https://github.com/KhronosGroup/VulkanSC-Registry) - Vulkan SC API and Extension Registry
 - [jekyllt/jasper2](https://github.com/jekyllt/jasper2) - Full-featured Jekyll port of Ghost's default theme Casper v2 👻
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -487,7 +487,6 @@
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [crubier/react-graph-vis](https://github.com/crubier/react-graph-vis) - A react component to render nice graphs using vis.js
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [PrincessGod/objTo3d-tiles](https://github.com/PrincessGod/objTo3d-tiles) - Convert obj model file to 3d tiles
 - [ebeaufay/threedtiles](https://github.com/ebeaufay/threedtiles) - 3DTiles viewer for three.js
 - [renyuanz/leonids](https://github.com/renyuanz/leonids) - A simple, fixed sidebar two columns Gatsby.js blog starter.
@@ -504,7 +503,7 @@
 - [matthias-research/pages](https://github.com/matthias-research/pages) - My web page containing all the demos from my youtube channel "Ten Minute Physics" www.youtube.com/c/TenMinutePhysics
 - [brunoimbrizi/interactive-particles](https://github.com/brunoimbrizi/interactive-particles) - 
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
 - [ethomson/github4life](https://github.com/ethomson/github4life) - Using your GitHub Contribution Graph as a four-color Game of Life.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -976,6 +975,7 @@
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [matvp91/indigo-player](https://github.com/matvp91/indigo-player) - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [prasanaworld/puppeteer-screen-recorder](https://github.com/prasanaworld/puppeteer-screen-recorder) - A powerful plugin for recording with Puppeteer.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
