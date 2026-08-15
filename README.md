@@ -689,6 +689,7 @@
 
 ## Python 
 
+- [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [AN-Best/braid](https://github.com/AN-Best/braid) - GPU parallelized, differentiable multiphysics simulation.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
