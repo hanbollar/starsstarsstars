@@ -109,7 +109,6 @@
 - [wdas/partio](https://github.com/wdas/partio) - C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC. https://wdas.github.io/partio
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [nem0/OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer
-- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [mccannd/Project-Marshmallow](https://github.com/mccannd/Project-Marshmallow) - Vulkan-based implementation of clouds from Decima Engine
@@ -291,6 +290,7 @@
 - [FenglongSong/Quadraped-kinematic-controller](https://github.com/FenglongSong/Quadraped-kinematic-controller) - 
 - [yuehaowang/volume_renderer](https://github.com/yuehaowang/volume_renderer) - CUDA-based interactive volume visualizer.
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
+- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [MatheusFaria/cuda_opengl_cmake](https://github.com/MatheusFaria/cuda_opengl_cmake) - This project shows how to integrate CUDA and OpenGL. Generating the Makefile with Cmake
 - [Forceflow/cuda2GLcore](https://github.com/Forceflow/cuda2GLcore) - Implementation of Cuda to OpenGL rendering
