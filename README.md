@@ -697,6 +697,7 @@
 
 ## Python 
 
+- [vasparshin/kcl-assay](https://github.com/vasparshin/kcl-assay) - Trust, but verify: a reliability harness for AI-generated KCL. Makes Zoo's ml-kcl-edit succeed on geometry it normally fails, then geometrically proves the result instead of trusting a 200. #ZooAPIMak
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [AN-Best/braid](https://github.com/AN-Best/braid) - GPU parallelized, differentiable multiphysics simulation.
