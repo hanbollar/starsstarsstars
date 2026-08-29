@@ -187,7 +187,7 @@
 - [GPUOpen-LibrariesAndSDKs/RenderPipelineShaders](https://github.com/GPUOpen-LibrariesAndSDKs/RenderPipelineShaders) - Render Pipeline Shaders SDK
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [mosra/corrade](https://github.com/mosra/corrade) - C++11 multiplatform utility library
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [kimkulling/osre](https://github.com/kimkulling/osre) - My render engine for experiments.
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [GPUVerb/Planeverb](https://github.com/GPUVerb/Planeverb) - Project Planeverb is a CPU based real-time wave-based acoustics engine for games. It comes with an integration with the Unity Engine.
@@ -699,7 +699,7 @@
 
 - [vasparshin/kcl-assay](https://github.com/vasparshin/kcl-assay) - Trust, but verify: a reliability harness for AI-generated KCL. Makes Zoo's ml-kcl-edit succeed on geometry it normally fails, then geometrically proves the result instead of trusting a 200. #ZooAPIMak
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [AN-Best/braid](https://github.com/AN-Best/braid) - GPU parallelized, differentiable multiphysics simulation.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
