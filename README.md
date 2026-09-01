@@ -70,7 +70,6 @@
 ## Bikeshed 
 
 - [immersive-web/webxr](https://github.com/immersive-web/webxr) - Repository for the WebXR Device API Specification.
-- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 
 ## C 
 
@@ -658,6 +657,7 @@
 - [sedaoturak/data-resources-for-materials-science](https://github.com/sedaoturak/data-resources-for-materials-science) - A list of databases, datasets and books/handbooks where you can find materials properties for machine learning applications.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [velikanov/opensource-candies](https://github.com/velikanov/opensource-candies) - Free stuff for open source projects
