@@ -82,7 +82,6 @@
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [ascent12/drm_doc](https://github.com/ascent12/drm_doc) - How to write a Linux DRM application
 - [audulus/vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs
-- [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [nvpro-samples/optix_advanced_samples](https://github.com/nvpro-samples/optix_advanced_samples) - Set of advanced samples for the NVIDIA OptiX Ray Tracing Engine.
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [KhronosGroup/SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) - SPIRV-Reflect is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
@@ -626,6 +625,7 @@
 - [deep-geometry/abc-dataset](https://github.com/deep-geometry/abc-dataset) - ABC: A Big CAD Model Dataset For Geometric Deep Learning
 - [CedricGuillemet/SDF](https://github.com/CedricGuillemet/SDF) - Collection of resources (papers, links, discussions, shadertoys,...) related to Signed Distance Field
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
+- [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [NVIDIA/nvcomp](https://github.com/NVIDIA/nvcomp) - Repository for nvCOMP docs and examples. nvCOMP is a library for fast lossless compression/decompression on the GPU that can be downloaded from https://developer.nvidia.com/nvcomp.
 - [itsnebulalol/deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
