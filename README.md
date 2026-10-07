@@ -758,7 +758,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, qua
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [Profactor/continuous-remeshing](https://github.com/Profactor/continuous-remeshing) - Continuous Remeshing For Inverse Rendering
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
