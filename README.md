@@ -404,6 +404,7 @@
 
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge) - A badge generator service to count visitors of your markdown file. Fork From:jwenjian/visitor-badge
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [BotParty/homelab_status_page](https://github.com/BotParty/homelab_status_page) - 🦒🦒🦒 Fool-proof, robust, and easy-to-use (robotic-UI-Research)🦒🦒🦒
 - [lobau/lastquestion](https://github.com/lobau/lastquestion) - 
@@ -456,7 +457,6 @@
 - [borellion/sdk](https://github.com/borellion/sdk) - Monetize your 3D experience by plugging into the Borellion Audience Network
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [pmndrs/postprocessing](https://github.com/pmndrs/postprocessing) - A post processing library for three.js.
@@ -679,7 +679,6 @@
 - [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM – Open Source CRM Application
 - [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [minicli/action-contributors](https://github.com/minicli/action-contributors) - GitHub Action to dynamically update CONTRIBUTORS file
@@ -833,7 +832,6 @@
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
-- [alaingalvan/foil](https://github.com/alaingalvan/foil) - ✨ A portfolio CMS library designed for engineers, artists, technical artists, musicians, and bloggers looking to showcase a portfolio of front-end experiments, games, art, articles, and more.
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -960,6 +958,7 @@
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [zen-fs/core](https://github.com/zen-fs/core) - A filesystem, anywhere.
 - [Twinklebear/webgpu-0-to-gltf](https://github.com/Twinklebear/webgpu-0-to-gltf) - Code for my From 0 to glTF with WebGPU blog series
+- [alaingalvan/foil](https://github.com/alaingalvan/foil) - ✨ A portfolio CMS library designed for engineers, artists, technical artists, musicians, and bloggers looking to showcase a portfolio of front-end experiments, games, art, articles, and more.
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [dimforge/rapier.js](https://github.com/dimforge/rapier.js) - Official JavaScript bindings for the Rapier physics engine ⚠️ MIGRATED TO https://github.com/dimforge/rapier/tree/master/typescript ⚠️
@@ -1010,6 +1009,7 @@
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [framefactory/webgpu.rocks](https://github.com/framefactory/webgpu.rocks) - WebGPU quick reference and documentation
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
