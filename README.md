@@ -128,6 +128,7 @@
 
 ## C++ 
 
+- [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep) - USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling
 - [NarcisCalin/Galaxy-Engine](https://github.com/NarcisCalin/Galaxy-Engine) - Galaxy Engine is a fully interactive particle physics engine. Play with tens or hundreds of thousands of particles in real time
 - [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - C++ library implementing the Signed Heat Method for computing robust signed distance fields (SDFs) to triangle meshes, polygon meshes, and point clouds in 3D.
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
