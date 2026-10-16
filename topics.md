@@ -1899,6 +1899,7 @@
 
 ## others 
 
+- [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep) - USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling
 - [vasparshin/kcl-assay](https://github.com/vasparshin/kcl-assay) - Trust, but verify: a reliability harness for AI-generated KCL. Makes Zoo's ml-kcl-edit succeed on geometry it normally fails, then geometrically proves the result instead of trusting a 200. #ZooAPIMak
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
