@@ -540,7 +540,7 @@
 - [jh3y/vincent-van-git](https://github.com/jh3y/vincent-van-git) - Use your Github commit history as a canvas!
 - [oppenheimj/guppy](https://github.com/oppenheimj/guppy) - 
 - [wwwtyro/sdf-csg](https://github.com/wwwtyro/sdf-csg) - Generate meshes from signed distance functions and constructive solid geometry operations.
-- [morgan3d/quadplay](https://github.com/morgan3d/quadplay) - The quadplay✜ fantasy console
+- [factory797/quadplay](https://github.com/factory797/quadplay) - The quadplay✜ fantasy console
 - [11ty/buildawesome](https://github.com/11ty/buildawesome) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [vanruesc/rabbit-hole](https://github.com/vanruesc/rabbit-hole) - An experimental voxel engine.
 - [looeee/threejs-csg](https://github.com/looeee/threejs-csg) - Constructive Solid Geometry for three.js, ES6 + BufferGeometry
