@@ -927,6 +927,7 @@
 
 ## TypeScript 
 
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
